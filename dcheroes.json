@@ -1,5 +1,5 @@
 {
-  "heroes": [
+  "characters": [
     {
       "searchApiId": "130860",
       "descriptionSummary": "",
@@ -22,7 +22,22 @@
         269701,
         372601,
         355351
-      ]
+      ],
+      "facts": {
+        "powers": "Super strength, Flight, Invulnerability, Super speed, Heat vision, Freeze breath, X-ray vision, Superhuman hearing, Healing factor",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Kara Zor-El"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Action-Comics-1938-2011-252/digital-comic/T0003302525001",
+          "title": "ACTION COMICS #252 (1959)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "130863",
@@ -43,7 +58,24 @@
         269696,
         372601,
         356041
-      ]
+      ],
+      "facts": {
+        "powers": "Control over plant life, Supernatural knowledge, Super strength",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Louisiana",
+          "Real Name: Alec Holland",
+          "Occupation: Former scientist"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/House-of-Secrets-1956-1978-92/digital-comic/T0820400925001",
+          "title": "HOUSE OF SECRETS #92 (1971)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "130864",
@@ -55,7 +87,22 @@
       "relatedCharactersApiId": [
         373326,
         130859
-      ]
+      ],
+      "facts": {
+        "powers": "Plasticity, Shapeshifting, Durability",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: Former criminal",
+          "Real Name: Eel O'Brien"
+        ],
+        "firstAppearence": {
+          "title": "POLICE COMICS #1 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "148011",
@@ -79,7 +126,23 @@
         366266,
         269041,
         366696
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, combat strategy, advanced technology",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Barbara Gordon",
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-139/digital-comic/T0037601395001",
+          "title": "BATMAN #139 (1961)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "148013",
@@ -87,7 +150,22 @@
       "description": "<p>Rorshach. The Comedian. Dr. Manhattan. Silk Spectre. Nite Owl. Ozymandias.<br /><br />Who watches the Watchmen?</p><p>At this point, who doesn’t? It’s sold over a million copies and is the first thing people mention when talking comics–for-adults. It’s the only graphic novel to make Time’s 100 Best Novels list, one of Entertainment Weekly’s Top 50 novels of the past 25 years, and has made fans of everyone from film directors Zack Snyder and Darren Aronofsky to the writers on Lost.</p><p>Watchmen takes place in an alternate world where the mere presence of American superheroes changed history: The US won the Vietnam War, Nixon is still president, and the cold war is in full effect.  It begins with a murder-mystery before unfolding into a planet-altering conspiracy: When a retired hero is killed, his former teammates must investigate. The conspiracy they uncover will entwine their secret traumas and twisted psychologies, ultimately asking where the fine line is drawn between heroes and villains?</p><p>Popularly cited as the point where comics came of age, Watchmen’s sophisticated take on superheroes has been universally acclaimed for its psychological depth and realism. It’s slowly and inevitably become it’s own franchise, spawning a movie, video game, and the Before Watchmen prequel comics.</p>",
       "name": "watchmen",
       "created": 1330561649,
-      "authorApiId": 36
+      "authorApiId": 36,
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: New York City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Watchmen-1-of-12/digital-comic/T0975600015001",
+          "title": "WATCHMEN #1 (1987)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "148015",
@@ -102,7 +180,21 @@
         431405,
         276461,
         315741
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Genre: Fantasy",
+          "Main Characters: Dream, Death, Desire, Destiny, Despair, Delirium, Destruction",
+          "Date of First Publication: January 1989"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Sandman-1/digital-comic/T0946300015001?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9Jc3N1ZXM",
+          "title": "THE SANDMAN #1 (1988)"
+        }
+      },
+      "type": []
     },
     {
       "searchApiId": "163540",
@@ -153,7 +245,24 @@
         163542,
         355336,
         357721
-      ]
+      ],
+      "facts": {
+        "powers": "Exceptional martial artist, Combat strategy, Advanced technology, Gymnastic ability",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham",
+          "Alias/AKA: Boy Wonder",
+          "Real Name: Richard \"Dick\" Grayson/Jason Todd/Tim Drake/Damian Wayne"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Detective-Comics-1937-2011-38/digital-comic/T0039000385001",
+          "title": "DETECTIVE COMICS #38 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "163541",
@@ -173,7 +282,22 @@
         445551,
         445552,
         445553
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, invulnerability, super speed, superhuman hearing, healing factor, intelligence, magic",
+        "alterEgo": "Captain Marvel",
+        "additionalInfo": [
+          "Alignment: Hero",
+          "Real Name: Billy Batson"
+        ],
+        "firstAppearence": {
+          "title": "WHIZ COMICS #2 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "163542",
@@ -196,7 +320,22 @@
         367271,
         267186,
         355336
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: New York City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Brave-and-the-Bold-1955-1983-54/digital-comic/T0868300545001",
+          "title": "BRAVE AND THE BOLD #54 (1964)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "266356",
@@ -211,7 +350,22 @@
         372991,
         130859,
         369711
-      ]
+      ],
+      "facts": {
+        "powers": "Advanced technology, Knowledge of the future, Super strength, Flight, Durability, Energy blasts, Force fields",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Michael Jon Carter"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Booster-Gold-1986-1988-1/digital-comic/T1219000015001",
+          "title": "BOOSTER GOLD #1 (1986)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "266826",
@@ -229,7 +383,24 @@
         148011,
         272311,
         272301
-      ]
+      ],
+      "facts": {
+        "powers": "Exceptional martial artist, Combat strategy, Advanced technology, Brilliant deductive skills, Gymnastic ability",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham",
+          "Real Name: Richard \"Dick\" Grayson",
+          "Occupation: Former acrobat"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Tales-of-the-Teen-Titans-1980-1988-43/digital-comic/T0967800435001",
+          "title": "TALES OF THE TEEN TITANS #43 (1984)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "267446",
@@ -252,7 +423,22 @@
         372596,
         372601,
         356041
-      ]
+      ],
+      "facts": {
+        "powers": "spiritual possession, invisibility, intangibility, supernatural knowledge, flight",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Boston Brand"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Strange-Adventures-1950-1973-205/digital-comic/T0914002055001",
+          "title": "STRANGE ADVENTURES #205 (1967)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "267716",
@@ -276,7 +462,22 @@
         366626,
         366641,
         270141
-      ]
+      ],
+      "facts": {
+        "powers": "varies depending on members",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Weakness: frequent inability to work together",
+          "Base of Operations: Belle Reve Prison"
+        ],
+        "firstAppearence": {
+          "title": "THE BRAVE AND THE BOLD #25 (1959)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "268431",
@@ -289,7 +490,22 @@
         266356,
         372596,
         348736
-      ]
+      ],
+      "facts": {
+        "powers": "alien technology, super strength, flight, durability, instant weaponry, combat skill",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Jaime Reyes",
+          "Occupation: Student"
+        ],
+        "firstAppearence": {
+          "title": "MYSTERY MEN COMICS #1 (1939)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "269036",
@@ -305,7 +521,21 @@
         148011,
         366391,
         367196
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, combat strategy, combat skill, brilliant deductive skills, intelligence, advanced technology",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "title": "DETECTIVE COMICS #233 (1956)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "269041",
@@ -321,7 +551,22 @@
         366616,
         366701,
         130854
-      ]
+      ],
+      "facts": {
+        "powers": "varies depending on members",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Black-Canary-Oracle-Birds-of-Prey-1/digital-comic/T0078700015001",
+          "title": "BLACK CANARY/ORACLE: BIRDS OF PREY #1 (1995)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "269421",
@@ -339,7 +584,22 @@
         163542,
         269081,
         345621
-      ]
+      ],
+      "facts": {
+        "powers": "Super strength, Flight, Invulnerability, Super speed, Healing factor, tactile telekinesis",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: New York City",
+          "Real Name: Kon-El"
+        ],
+        "firstAppearence": {
+          "title": "MORE FUN COMICS #101 (1945)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "269676",
@@ -351,7 +611,20 @@
       "relatedCharactersApiId": [
         286381,
         130859
-      ]
+      ],
+      "facts": {
+        "powers": "flight, super strength, energy blasts, radiation absorption, atomic/molecular rearrangement and restructuring",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Firestorm-The-Nuclear-Man-1978-1/digital-comic/T0969000015001",
+          "title": "FIRESTORM: THE NUCLEAR MAN #1 (1978)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "270151",
@@ -374,7 +647,23 @@
         373371,
         374461,
         341381
-      ]
+      ],
+      "facts": {
+        "powers": "hard light constructs, instant weaponry, force fields, flight, durability, alien technology, fear provocation, intelligence",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Alignment: It's Complicated",
+          "Real Name: Thaal Sinestro"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Green-Lantern-1960-1986-7/digital-comic/T0826700075001",
+          "title": "GREEN LANTERN #7 (1961)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "270156",
@@ -395,7 +684,22 @@
         267716,
         373371,
         374461
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, exceptional swimming ability, energy blasts",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: Treasure hunter"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Aquaman-1962-1978-35/digital-comic/T0962100355001",
+          "title": "AQUAMAN #35 (1967)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "270656",
@@ -407,7 +711,19 @@
       "relatedCharactersApiId": [
         163541,
         366736
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, invulnerability, super speed, superhuman hearing, healing factor, intelligence, magic",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "MARVEL FAMILY #1 (1945)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "270661",
@@ -423,7 +739,19 @@
         374461,
         357716,
         356061
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "SUPERBOY #68 (1958)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "270666",
@@ -437,7 +765,23 @@
         367271,
         367031,
         373371
-      ]
+      ],
+      "facts": {
+        "powers": "Cryogenic ability",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: Professional criminal",
+          "Real Name: Leonard Snart"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Showcase-1956-1978-8/digital-comic/T0823300085001",
+          "title": "SHOWCASE #8 (1957)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "272106",
@@ -454,7 +798,22 @@
         400596,
         369141,
         373371
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, invulnerability, genius-level intellect, combat strategy, alien technology, teleportation, energy blasts",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Apokolips"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Supermans-Pal-Jimmy-Olsen-1954-1974-134/digital-comic/T1000201345001",
+          "title": "SUPERMAN'S PAL JIMMY OLSEN #134 (1970)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "272291",
@@ -471,7 +830,22 @@
         148011,
         272311,
         272301
-      ]
+      ],
+      "facts": {
+        "powers": "Immortality, Combat skills, Genius-level intellect, Exceptional martial artist, Inexhaustible wealth, Master swordsman",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: International terrorist"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-232/digital-comic/T0037602325001",
+          "title": "BATMAN #232 (1971)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "272296",
@@ -490,7 +864,24 @@
         270141,
         374461,
         373371
-      ]
+      ],
+      "facts": {
+        "powers": "Intelligence, Fear provocation",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham",
+          "Real Name: Jonathan Crane",
+          "Occupation: Scientist"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Worlds-Finest-Comics-1941-1986-3/digital-comic/T0820600035001",
+          "title": "WORLD'S FINEST COMICS #3 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "272301",
@@ -536,7 +927,24 @@
         367256,
         367211,
         366366
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: Police Commissioner",
+          "Real Name: James Gordon",
+          "Alignment: Hero"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Detective-Comics-1937-2011-27/digital-comic/T0039000275001",
+          "title": "DETECTIVE COMICS #27 (1939)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "272306",
@@ -552,7 +960,22 @@
         285176,
         272301,
         267136
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-307/digital-comic/T0037603075001",
+          "title": "BATMAN #307 (1979)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "272311",
@@ -571,7 +994,23 @@
         272301,
         366316,
         366371
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: Butler",
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-16/digital-comic/T0037600165001",
+          "title": "BATMAN #16 (1943)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "272316",
@@ -584,7 +1023,22 @@
         130854,
         373371,
         374461
-      ]
+      ],
+      "facts": {
+        "powers": "venom-driven super-human strength, genius-level intellect",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: International terrorist"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-Vengeance-of-Bane-1-of-2/digital-comic/T0035400015001",
+          "title": "BATMAN: VENGEANCE OF BANE #1 (1993)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "272531",
@@ -597,7 +1051,23 @@
         130849,
         372726,
         267716
-      ]
+      ],
+      "facts": {
+        "powers": "Super speed, Intangibility, Durability, Time travel, Intelligence, Superhuman agility",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Central City",
+          "Real Name: Daniel West/Eobard Thawne"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Flash-1959-1985-139/digital-comic/T0820901395001",
+          "title": "THE FLASH #139 (1963)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "272536",
@@ -616,7 +1086,26 @@
         148011,
         272301,
         267716
-      ]
+      ],
+      "facts": {
+        "powers": "superhuman agility, enhanced strength, intelligence",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Alignment: Villain",
+          "Occupation: Former psychiatrist",
+          "Base of Operations: Gotham",
+          "Real Name: Harleen Quinzel",
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "/tv/batman-the-animated-series-1992-1995",
+          "title": "BATMAN: THE ANIMATED SERIES (1992)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "272776",
@@ -629,7 +1118,22 @@
         269701,
         130858,
         270151
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, durability, projects bursts of acidic blood",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Atros"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Green-Lantern-2005-2011-25/digital-comic/T0931000250101",
+          "title": "GREEN LANTERN #25 (2007)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "273181",
@@ -643,7 +1147,19 @@
         270146,
         358806,
         361751
-      ]
+      ],
+      "facts": {
+        "powers": "Alien technology, Genius-level intellect",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "ACTION COMICS #242 (1958)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "273786",
@@ -663,7 +1179,23 @@
         304301,
         269696,
         130859
-      ]
+      ],
+      "facts": {
+        "powers": "Magic",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: Former stage magician",
+          "Real Name: Zatanna Zatara"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Hawkman-1964-1968-4/digital-comic/T1000600045001",
+          "title": "HAWKMAN #4 (1964)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "275236",
@@ -678,7 +1210,21 @@
         373371,
         372596,
         267716
-      ]
+      ],
+      "facts": {
+        "powers": "Super strength, Invulnerability, Immortality",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Cyrus Gold"
+        ],
+        "firstAppearence": {
+          "title": "ALL-AMERICAN COMICS #61 (1944)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "276456",
@@ -698,7 +1244,22 @@
         443909,
         269701,
         373281
-      ]
+      ],
+      "facts": {
+        "powers": "Super strength, Durability, Control over water, Exceptional swimming ability, Ability to breathe underwater",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Amnesty Bay",
+          "Occupation: Queen of Atlantis"
+        ],
+        "firstAppearence": {
+          "title": "AQUAMAN #1 (1963)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "276461",
@@ -720,7 +1281,22 @@
         372721,
         269696,
         356041
-      ]
+      ],
+      "facts": {
+        "powers": "magic, supernatural knowledge, extreme cunningness",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Alignment: It's Complicated",
+          "Real Name: John Constantine"
+        ],
+        "firstAppearence": {
+          "title": "THE SAGA OF THE SWAMP THING #25 (1984)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "281501",
@@ -736,7 +1312,22 @@
         291221,
         163540,
         398531
-      ]
+      ],
+      "facts": {
+        "powers": "Magic, Emotional manipulation, Psychic power, Shadow manipulation, Supernatural knowledge, Telekinesis, Teleportation, Flight, Healing factor",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Alias/AKA: Rachel"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/DC-Comics-Presents-1978-1986-26/digital-comic/T0867200265001",
+          "title": "DC COMICS PRESENTS #26 (1980)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "282101",
@@ -747,7 +1338,20 @@
       "authorApiId": 1321,
       "relatedCharactersApiId": [
         130861
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, invulnerability, super speed, healing factor, superhuman agility",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Superman-The-Man-of-Steel-1991-2003-18/digital-comic/T0017900185001",
+          "title": "SUPERMAN: THE MAN OF STEEL #18 (1992)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "289986",
@@ -755,7 +1359,23 @@
       "description": "<p>Though she was raised on Earth and believed herself to be a normal human girl, Amy Winston soon learned that she was actually Amethyst, Princess of Gemworld.</p><p>Princess Amaya was the daughter of the ruling House of Amethyst on Gemworld. But when she was just an infant, her House fell into chaos following the uprising of the House of Opal and its ruthless ruler, Dark Opal. Thankfully, a witch named Citrina managed to save Amethyst before Dark Opal could assassinate her, sending her to Earth to live with a human family under the assumed name of Amy Winston. When Amy turned 13, however, Dark Opal tracked down her human family and attacked, forcing Amy to learn the truth of her heritage. Amy subsequently returned to Gemworld, where she learned she’d inherited magical abilities and of the duties that fell to her in the wake of her family’s destruction. Now the daughter of two worlds, Amy is forced to balance her love for her adoptive home on Earth and her duty to the people of Gemworld as Amethyst—princess and defender of a realm she’s only beginning to understand.</p><p><br /><em><strong>For more on Amethyst's history, <a href=\"https://www.dcuniverse.com/mythos/amethyst/\" target=\"_blank\">visit her page on DCUniverse.com.</a></strong></em></p>",
       "name": "amethyst",
       "created": 1365213946,
-      "authorApiId": 1321
+      "authorApiId": 1321,
+      "facts": {
+        "powers": "Wields the magic of House Amethyst",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Amy Winston",
+          "Occupation: Princess"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Legion-of-Super-Heroes-1980-1985-298/digital-comic/T0917202985001",
+          "title": "LEGION OF SUPER-HEROES #298 (1983)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "291216",
@@ -770,7 +1390,22 @@
         291221,
         281501,
         163540
-      ]
+      ],
+      "facts": {
+        "powers": "Energy absorption, Energy blasts, Flight, Combat skill",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Koriand’r"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/DC-Comics-Presents-1978-1986-26/digital-comic/T0867200265001",
+          "title": "DC COMICS PRESENTS #26 (1980)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "291221",
@@ -786,7 +1421,22 @@
         291216,
         163542,
         369581
-      ]
+      ],
+      "facts": {
+        "powers": "shapeshifting, animal-driven abilities",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Garfield Logan"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Doom-Patrol-1964-1968-99/digital-comic/T0916200995001",
+          "title": "DOOM PATROL #99 (1965)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "297231",
@@ -801,7 +1451,23 @@
         269421,
         297241,
         270146
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Alignment: Villain",
+          "Real Name: Dru-Zod",
+          "Occupation: General"
+        ],
+        "firstAppearence": {
+          "title": "ADVENTURE COMICS #283 (1961)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "299036",
@@ -819,7 +1485,20 @@
         372721,
         267446,
         269696
-      ]
+      ],
+      "facts": {
+        "powers": "Immortality, Magic, Supernatural knowledge, Combat skill, Magic weaponry",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Flashpoint-5-of-5/digital-comic/T0950600055001",
+          "title": "FLASHPOINT #5 (2011)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "304301",
@@ -839,7 +1518,19 @@
         373401,
         273786,
         269696
-      ]
+      ],
+      "facts": {
+        "powers": "Immortality, Supernatural knowledge, Teleportation, Intelligence, Energy manipulation",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "PHANTOM STRANGER #1 (1952)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "315737",
@@ -847,7 +1538,20 @@
       "description": "<p>They called it “The Blight.” Mother Nature’s revenge against all the wrongs that we’ve done to her. It was brutal, it was inescapable and it all but wiped out the human race. Now only pockets of humanity remain. Determined, tenacious groups of survivors scratching out a meager existence in whatever ways they can. It’s been demoralizing and difficult, but they thought the worst was behind them.</p><p>Then the Hinterkind returned.</p><p>From the last, lost corners of the world they arose, a myriad menagerie that inspired all of mankind’s legends of myth and magic. But these aren’t childhood fairytale creatures. They are flesh, blood and passion incarnate, and they possess a long simmering hatred for the human race that drove them into the shadows.</p><p>But the tables have turned. It’s the human race that dwells in the shadows now, desperately clinging to existence. So when Prosper Monday leaves the security and seclusion of her Central Park village to venture into the wilds to find her grandfather, it’s not likely to go unnoticed. But Prosper is unaware of how much the world has changed. Or how hungry it has become…</p>",
       "name": "hinterkind",
       "created": 1386980539,
-      "authorApiId": 1321
+      "authorApiId": 1321,
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Genre: Fantasy",
+          "Main Characters: Prosper Monday, Angus, Jon Hobb, Queen Telsche",
+          "Date of First Publication: October 2013"
+        ],
+        "firstAppearence": {
+          "title": ""
+        }
+      },
+      "type": []
     },
     {
       "searchApiId": "315739",
@@ -855,7 +1559,20 @@
       "description": "<p>We’ve all had our youthful excesses. Our nights of rebellion or carelessness buried deep within the past. But in the town of Coffin Hill, things that are buried have a tendency to come back.</p><p>In her youth, Eve Coffin was a defiant, teenage lowlife from a high-society family—a family that lives under a curse that dates back to the Salem Witch trials. After a wild night of sex, drugs and witchcraft in the woods, Eve awoke to find that she was naked, covered in blood and completely unable to remember how she got there. One of her fellow revelers was missing, one was in a mental ward—and one knew that Eve was responsible.</p><p>Now, Eve works as a cop in Boston. But when she’s shot in the head and undergoes neural surgery, Eve must leave her job behind and return to Coffin Hill. There she’ll discover that the darkness she unleashed ten years ago in the woods was never contained. It continues to seep through the town, cursing the very soul of the once sleepy Massachusetts hollow, spilling secrets and enacting its revenge. Set against the haunted backdrop of New England, Coffin Hill is a work of horror that explores what people will do for power and retribution and lays bare the danger and futility of running away from the past.</p>",
       "name": "eve coffin",
       "created": 1386980755,
-      "authorApiId": 1321
+      "authorApiId": 1321,
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Genre: Horror",
+          "Main Characters: Eve Coffin",
+          "Date of First Publication: October 2013"
+        ],
+        "firstAppearence": {
+          "title": ""
+        }
+      },
+      "type": []
     },
     {
       "searchApiId": "315741",
@@ -866,7 +1583,21 @@
       "authorApiId": 1321,
       "relatedCharactersApiId": [
         148015
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Genre: Mystery",
+          "Main Characters: Edwin Paine, Charles Rowland",
+          "Date of First Publication: December 2013"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Sandman-25/digital-comic/T0004200255001?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy",
+          "title": "THE SANDMAN #25 (1991)"
+        }
+      },
+      "type": []
     },
     {
       "searchApiId": "315743",
@@ -874,7 +1605,20 @@
       "description": "<p>The laws of physics are supposed to be constant. Unwavering. Dependable. But if that were true, we wouldn’t need the Bureau.</p><p>Gravity has started failing, wandering wormholes have become commonplace, quantum tornadoes are wreaking havoc on the Midwest, and if you’re not careful, you just may come home to find that your neighborhood has been whisked to some unknown corner of the Multiverse. No, it appears the laws of physics are no different than all other laws. They’re not immune to getting broken.</p><p>In response to the growing number of scientific disasters, the United States government created the FBP—The Federal Bureau of Physics. Staffed by men and women of science and action alike, the agents of the FBP are the first line of defense against a world gone wacky. Adam Hardy is one such agent. Young, talented and smart, he’s more than capable, but less than driven. At least until he’s faced with a conspiracy involving his father’s death. Now, Adam must rise to the challenge, unravel this great mystery of science and figure out just what’s wrong with the FBP—and the world.</p>",
       "name": "fbp: federal bureau of physics",
       "created": 1386981131,
-      "authorApiId": 1321
+      "authorApiId": 1321,
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Genre: Science Fiction",
+          "Main Characters: Adam Hardy",
+          "Date of First Publication: July 2013"
+        ],
+        "firstAppearence": {
+          "title": ""
+        }
+      },
+      "type": []
     },
     {
       "searchApiId": "323231",
@@ -887,7 +1631,22 @@
         267716,
         366691,
         373431
-      ]
+      ],
+      "facts": {
+        "powers": "unrivaled aim, weapons expert, combat skill",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Floyd Lawton"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-59/digital-comic/T0037600595001",
+          "title": "BATMAN #59 (1950)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "338516",
@@ -949,6 +1708,22 @@
         130853,
         130857,
         163541
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Major Cities: Metropolis, Gotham City, Star City, Central City, Coast City",
+          "Notable Heroes: Superman, Batman, Wonder Woman, Green Lantern, The Flash, Aquaman, Cyborg, Shazam",
+          "Alias: New Earth"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Infinite-Crisis-2005-2006-6-of-7/digital-comic/T0464000065001",
+          "title": "INFINITE CRISIS #6 (2006)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1003,6 +1778,20 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: American Crusader, Wundajin, Machinehead, Ladybug, Stuntmaster, Lord Havok"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Infinite-Crisis-2005-2006-5-of-7/digital-comic/T0464000055001",
+          "title": "INFINITE CRISIS #5 (2006)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1061,6 +1850,20 @@
         130858,
         373321,
         369491
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Superman/Calvin Ellis, Nubia, The Guardian, Green Lantern, Black Lightning, Mister Miracle"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Legion-of-Super-Heroes-1984-1989-23/digital-comic/T0918600235001",
+          "title": "LEGION OF SUPERHEROES #23 (1986)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1115,6 +1918,20 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Thunderer"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/DC-Special-The-Return-of-Donna-Troy-4-of-4/digital-comic/T0460700045001",
+          "title": "DC SPECIAL: THE RETURN OF DONNA TROY #4 (2005)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1173,6 +1990,20 @@
         366321,
         130858,
         367036
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Doc Fate, Immortal Man, the Mighty Atom, Green Lantern Abin Sur, Lady Blackhawk"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Final-Crisis-Superman-Beyond-1-of-2/digital-comic/T0682800015001",
+          "title": "FINAL CRISIS: SUPERMAN BEYOND #1 (2008)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1229,6 +2060,19 @@
         356071,
         367261,
         270151
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Vandal Savage, Doc Faust, Lady Shiva, Blockbuster, Count Sinestro"
+        ],
+        "firstAppearence": {
+          "title": "THRILL COMICS #40 (1940)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1290,6 +2134,19 @@
         366321,
         130854,
         130861
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: The Flash, Green Lantern, Hawkgirl, the Atom, the Sandman, Batman, Superman"
+        ],
+        "firstAppearence": {
+          "title": "NEW FUN COMICS #1 (1935)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1301,7 +2158,23 @@
       "authorApiId": 18781,
       "relatedCharactersApiId": [
         130854
-      ]
+      ],
+      "facts": {
+        "powers": "genius-level intellect",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City",
+          "Real Name: Edward Nygma (née Nashton)",
+          "Occupation: Professional criminal"
+        ],
+        "firstAppearence": {
+          "title": "DETECTIVE COMICS #140 (1948)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "341726",
@@ -1319,7 +2192,25 @@
         366311,
         373371,
         374461
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Alignment: Villain",
+          "Real Name: Oswald Chesterfield Cobblepot",
+          "Occupation: Criminal, stock trader, fixer",
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Detective-Comics-1937-2011-58/digital-comic/T0039000585001",
+          "title": "DETECTIVE COMICS #58 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "342231",
@@ -1375,6 +2266,20 @@
         356071,
         373736,
         366476
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Characters: Ultraman, Superwoman, Owlman, Power Ring, Johnny Quick, the Sea King, Atomica, Grid, and the Anti-Monitor"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Justice-League-of-America-1960-1987-29/digital-comic/T0820800295001",
+          "title": "JUSTICE LEAGUE OF AMERICA #29 (1964)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1429,6 +2334,20 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Characters: Superwoman, Batwoman, Aquawoman, Wonder Man, Columbia, Black Condor, and the Phantom Man"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Teen-Titans-Spotlight-1986-1988-11/digital-comic/T1066400115001",
+          "title": "TEEN TITANS SPOTLIGHT #11 (1987)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1484,6 +2403,20 @@
         360841,
         356071,
         366756
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Captain Carrot, Pig-Iron, Alley-Kat-Abra, Yankee Poodle, Fastback and American Eagle"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Captain-Carrot-and-the-Final-Ark-2007-1/digital-comic/T0588100015001",
+          "title": "CAPTAIN CARROT AND THE FINAL ARK #1 (2007)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1551,6 +2484,21 @@
         366726,
         130853,
         373786
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": "Earth-Me",
+        "additionalInfo": [
+          "Major Cities: Gotham, Metropolis",
+          "Notable Heroes: Batman, Superman, Green Lantern, The Flash, Wonder Woman, Green Arrow, Sister Miracle, Megamorpho, The Atom, The Offspring, Superboy, Arrowette, Alpha Centurion, Steel, Argus, Aquaman, Menta, Doctor Midnite, Bloodwynd, Gypsy"
+        ],
+        "firstAppearence": {
+          "url": "/tv/young-justice-2010",
+          "title": "YOUNG JUSTICE (2010)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1613,6 +2561,20 @@
         130853,
         130857,
         148012
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Superman, Wonder Woman, Batman, Green Lantern, The Flash, Aquaman, Cyborg, Green Arrow"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Superman-Batman-51/digital-comic/T0324200515001",
+          "title": "SUPERMAN/BATMAN #51 (2008)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1667,6 +2629,20 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Dino-Cop, Spore, Nimrod Squad, Fletch, Vague, Flintstein, Sepulchre, Nightcracker, the Scorpion"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Multiversity-2014-1/digital-comic/T0858200015001",
+          "title": "THE MULTIVERSITY #1 (2014)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1724,6 +2700,20 @@
         269051,
         268431,
         366411
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Captain Atom, Blue Beetle, The Question, Peacemaker, Nightshade",
+          "Major Cities: Washington, D.C., London, Beijing, Moscow"
+        ],
+        "firstAppearence": {
+          "title": "YELLOWJACKET #1 (1944)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1778,6 +2768,20 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Optiman, Iron Knight, War-Woman, Flashlight, Red Racer, Mer-Man, Cyberion, Blackbird"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Multiversity-Guidebook-2014-1/digital-comic/T1353500015001",
+          "title": "THE MULTIVERSITY GUIDEBOOK #1 (2015)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1833,6 +2837,20 @@
         360841,
         356071,
         163541
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Captain Marvel, Captain Marvel, Jr., Mary Marvel, The Lieutenant Marvels",
+          "Alias: Thunderworld"
+        ],
+        "firstAppearence": {
+          "title": "DETECTIVE COMICS #500 (1981)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1892,6 +2910,20 @@
         130858,
         130865,
         163542
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Major Cities: Metropolis, Gotham",
+          "Notable Heroes: Superman, Batman, Wonder Woman, Teen Titans"
+        ],
+        "firstAppearence": {
+          "title": "MORE FUN COMICS #101 (1945)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -1948,6 +2980,22 @@
         356071,
         130861,
         373326
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Major Cities: Berlin",
+          "Notable Heroes: Uncle Sam, the Ray, Black Condor, the Human Bomb, Phantom Lady, Doll Man and Doll Woman",
+          "Alias: Earth-X"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/52-Week-52/digital-comic/T0480600525001",
+          "title": "52 #52 (2007)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2006,6 +3054,20 @@
         130849,
         130865,
         366321
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Bat Man, Accelerated Man, the Wonder Woman, the Shrinking Man"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-Gotham-by-Gaslight/digital-comic/T0009100015001",
+          "title": "BATMAN: GOTHAM BY GASLIGHT (1989)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2063,6 +3125,21 @@
         130861,
         130854,
         130860
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Major Cities: Gotham, Metropolis",
+          "Notable Heroes: Superman, Batman, Supergirl, Knightwing"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Countdown-Arena-2-of-4/digital-comic/T0600900025001",
+          "title": "COUNTDOWN: ARENA #2 (2007)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2117,6 +3194,20 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Cyclotron, Doctor Nemo, Corvus, Accelerator, Psi-Man"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Countdown-Arena-2-of-4/digital-comic/T0600900025001",
+          "title": "COUNTDOWN: ARENA #2 (2008)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2177,6 +3268,20 @@
         130853,
         130858,
         130849
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Superman, Batman, Wonder Woman, Aquaman, Green Lantern, the Flash, Sandman"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Crisis-on-Infinite-Earths-4/digital-comic/T0982300045001",
+          "title": "CRISIS ON INFINITE EARTHS #4 (1985)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2235,6 +3340,20 @@
         267446,
         276461,
         366611
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Superdemon, Hellblazer, Annataz, Witchboy, Swamp-Man, Fate, Ragman, Deadman, Enchantress"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Countdown-Arena-1-of-4/digital-comic/T0600900015001",
+          "title": "COUNTDOWN: ARENA #1 (2007)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2289,6 +3408,20 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: All deceased"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Justice-League-of-America-1960-1987-15/digital-comic/T0820800155001",
+          "title": "JUSTICE LEAGUE OF AMERICA #15 (1962)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2344,6 +3477,20 @@
         360841,
         356071,
         366776
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Captain Adam Strange and the Atomic Knights of Justice"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Animal-Man-1988-1995-23/digital-comic/T0001900235001",
+          "title": "ANIMAL MAN #23 (1990)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2400,6 +3547,20 @@
         356071,
         367966,
         366641
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: The Superchief, Bat-Lash, Madame .44, Strongbow, El Diablo, Cinnamon, the Thunder Twins, Firehair, Tomahawkman, Johnny Thunder, Pow-Wow Smith"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Justice-Riders-1/digital-comic/T0095300015001",
+          "title": "JUSTICE RIDERS (1997)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2459,6 +3620,21 @@
         130858,
         270661,
         270146
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Major Cities: Moscow",
+          "Notable Heroes: Superman, Batman, Green Lantern, Bizarro, Lex Luthor"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Superman-Red-Son-1-of-3/digital-comic/T0100600015001",
+          "title": "SUPERMAN: RED SON #1 (2003)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2513,6 +3689,19 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Bat-Lantern, Black Arrow, Wonderhawk, Aquaflash, Super-Martian"
+        ],
+        "firstAppearence": {
+          "title": "SUPERBOY #59 (1957)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2571,6 +3760,19 @@
         269061,
         367971,
         369491
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Kamandi, Prince Tuftan, biOMAC, Highfather, Big Barda, Mister Miracle, Lightray, Avia, Fastbak"
+        ],
+        "firstAppearence": {
+          "title": "SUPERMAN'S GIRLFRIEND LOIS LANE #47 (1964)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2631,6 +3833,20 @@
         130858,
         270141,
         130854
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: The Atom, Superman, the Flash, Green Lantern, Joker, Batman"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Tangent-Comics-The-Atom-1997-1/digital-comic/T0126100015001",
+          "title": "TANGENT COMICS: THE ATOM #1 (1997)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2690,6 +3906,20 @@
         130858,
         367971,
         373626
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Batman (Terry McGinnis), Superman, Green Lantern, Warhawk, Aquagirl, Big Barda, Micron",
+          "Major Cities: Neo-Gotham"
+        ],
+        "firstAppearence": {
+          "title": "SHOWCASE #62 (1966)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2751,6 +3981,20 @@
         130849,
         366341,
         366696
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Superman, Wonder Woman, Green Lantern, the Flash, Martian Manhunter"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/DC-The-New-Frontier-1-of-6/digital-comic/T0348600015001",
+          "title": "DC: THE NEW FRONTIER #1  (2004)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2811,6 +4055,20 @@
         130849,
         130858,
         366736
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Superman, Batman, Wonder Woman, the Flash, Green Lantern"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Kingdom-Come-1/digital-comic/T0946100015001",
+          "title": "KINGDOM COME #1 (1996)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2866,6 +4124,20 @@
         360841,
         356071,
         270661
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": "Htrae",
+        "additionalInfo": [
+          "Notable Heroes: Bizarro-Superman, Bizarra, Bizarro-Batman, Adam Familiar, Sramian Snitch, Bizarro Manhawk"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Multiversity-Guidebook-2014-1/digital-comic/T1353500015001",
+          "title": "THE MULTIVERSITY GUIDEBOOK #1 (2015)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2923,6 +4195,20 @@
         130854,
         163540,
         270141
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Captain Leatherwing, Robin Redblade"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-The-Dark-Knight-Returns-1/digital-comic/T0997800015001",
+          "title": "BATMAN: THE DARK KNIGHT RETURNS #1  (1986)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -2980,6 +4266,19 @@
         130854,
         130858,
         366776
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Batman, Ultraman, Green Lantern, Adam Strange"
+        ],
+        "firstAppearence": {
+          "title": "SUPERMAN'S GIRLFRIEND LOIS LANE #43 (1963)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3043,6 +4342,20 @@
         367821,
         148012,
         367381
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Doc Tornado, Gold Superman, Iron Batman, Platinum Wonder Woman, Mercury Flash, Nth Metal Hawkman, Tin Elongated Man, Lead Green Arrow"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Final-Crisis-7-of-7/digital-comic/T0613900075001",
+          "title": "FINAL CRISIS #7 (2009)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3100,7 +4413,20 @@
         360836,
         360841,
         356071
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Convergence-2015-0/digital-comic/T1358900005001",
+          "title": "CONVERGENCE #0 (2015)THE WARLORD #48 (1981)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "360791",
@@ -3154,6 +4480,21 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Savior, Herculina, Radman, Goodfellow, Formula-1, Ghostman, Master Motley, Cutie, the Stingray",
+          "Major Cities: Cosmoville"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Wonder-Woman-Amazonia-1/digital-comic/T0106700015001",
+          "title": "WONDER WOMAN: AMAZONIA (1997)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3208,6 +4549,20 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Supremo, Starcop, Mercury-Man, Miss X, Morphin' Man, Majesty, Olympian and the Owl"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Multiversity-Guidebook-2014-1/digital-comic/T1353500015001",
+          "title": "THE MULTIVERSITY GUIDEBOOK #1 (2015)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3262,6 +4617,19 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Tommy Tomorrow, Manhunter 2015, the Space Rangers"
+        ],
+        "firstAppearence": {
+          "title": "THRILLKILLER #1 (1997)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3317,6 +4685,20 @@
         360841,
         356071,
         130861
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable heroes: Superman"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Action-Comics-2011-2016-9/digital-comic/T1055200095001",
+          "title": "ACTION COMICS #9 (2012)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3374,6 +4756,19 @@
         130861,
         130858,
         130849
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable heroes: Sunshine Superman, Shooting Star, Magic Lantern, Speed Freak, Brother Power, the Geek"
+        ],
+        "firstAppearence": {
+          "title": "SUPERMAN'S GIRLFRIEND LOIS LANE #47 (1964)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3428,6 +4823,21 @@
         360821,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable heroes: Lord Volt, Lady Quark, Liana, Brother Eyes, Antarctic Monkey, Danger Dog, Kid Vicious",
+          "Alias: Warworld"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Countdown-to-Adventure-1-of-8/digital-comic/T0598600015001",
+          "title": "COUNTDOWN TO ADVENTURE #1 (2007)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3487,6 +4897,19 @@
         130865,
         366341,
         130858
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Notable Heroes: Batman, Superman, Wonder Woman, Martian Manhunter, Green Lantern"
+        ],
+        "firstAppearence": {
+          "title": "BATMAN BEYOND UNIVERSE #9 (2014)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3541,6 +4964,22 @@
         360836,
         360841,
         356071
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Major Cities: New York, Los Angeles, London, Tokyo, Sydney, Tokyo, Shanghai, Beijing, Mumbai, Moscow",
+          "Alias: Earth-Prime",
+          "Notable Heroes: Ultra Comics"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Countdown-to-Adventure-3-of-8/digital-comic/T0598600035001",
+          "title": "COUNTDOWN TO ADVENTURE #3 (2007)"
+        }
+      },
+      "type": [
+        "Places"
       ]
     },
     {
@@ -3553,7 +4992,19 @@
       "relatedCharactersApiId": [
         358806,
         273181
-      ]
+      ],
+      "facts": {
+        "powers": "magic, supernatural knowledge, invulnerability, intelligence",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "1st ISSUE SPECIAL #8 (1975)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "366266",
@@ -3573,7 +5024,19 @@
         366696,
         373626,
         267726
-      ]
+      ],
+      "facts": {
+        "powers": "ultrasonic ear-splitting vocal cry, exceptional martial artist",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "FLASH COMICS #86 (1947)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366301",
@@ -3594,7 +5057,21 @@
         163540,
         148011,
         266826
-      ]
+      ],
+      "facts": {
+        "powers": "brilliant deductive skills, combat skill",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "title": "DETECTIVE COMICS #441 (1974)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366311",
@@ -3619,7 +5096,22 @@
         366306,
         366331,
         374461
-      ]
+      ],
+      "facts": {
+        "powers": "criminal mastermind, weapons expert, complete unpredictability",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Detective-Comics-1937-2011-66/digital-comic/T0820700665001",
+          "title": "DETECTIVE COMICS #66 (1942)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "366321",
@@ -3641,7 +5133,19 @@
         345621,
         355346,
         341376
-      ]
+      ],
+      "facts": {
+        "powers": "subatomic miniaturization, genius-level intellect, advanced technology",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "SHOWCASE #34 (1961)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366331",
@@ -3667,7 +5171,22 @@
         272316,
         374461,
         373371
-      ]
+      ],
+      "facts": {
+        "powers": "cryogenic ability, genius-level intellect, impervious to sub-freezing temperatures",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Weaknesses: heat and fire",
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "title": "BATMAN #121 (1959)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "366341",
@@ -3693,7 +5212,21 @@
         372596,
         357701,
         360841
-      ]
+      ],
+      "facts": {
+        "powers": "flight, super strength, invulnerability, enhanced speed, shapeshifting, invisibility, telepathy, telekinesis, intelligence, intangibility, optic blasts",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Weaknesses: fire"
+        ],
+        "firstAppearence": {
+          "title": "DETECTIVE COMICS #225 (1955)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366351",
@@ -3718,7 +5251,22 @@
         375141,
         366631,
         366626
-      ]
+      ],
+      "facts": {
+        "powers": "combat strategy, combat skill, political influence",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Belle Reve Prison"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Legends-1986-1987-1/digital-comic/T1167800015001",
+          "title": "LEGENDS #1 (1986)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "366381",
@@ -3736,7 +5284,22 @@
         163540,
         267186,
         400596
-      ]
+      ],
+      "facts": {
+        "powers": "skilled fighter, peak agility, top level marksman",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/All-Star-Comics-69/digital-comic/T0889400695001",
+          "title": "ALL-STAR COMICS #69 (2015)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366391",
@@ -3753,7 +5316,22 @@
         148011,
         341726,
         366306
-      ]
+      ],
+      "facts": {
+        "powers": "shape-changing ability, duplication, enhanced strength",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Detective-Comics-1937-2011-40/digital-comic/T0039000405001",
+          "title": "DETECTIVE COMICS #40 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "366411",
@@ -3780,7 +5358,22 @@
         430326,
         358051,
         348736
-      ]
+      ],
+      "facts": {
+        "powers": "brilliant deductive skills, peak agility, skilled fighter",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.dccomics.com/tv/batman-the-animated-series-1992-1995",
+          "title": "BATMAN: THE ANIMATED SERIES (1992)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366476",
@@ -3797,7 +5390,20 @@
         372596,
         342231,
         449673
-      ]
+      ],
+      "facts": {
+        "powers": "invulnerability, durability, alien technology, immortality, energy manipulation, matter manipulation, super strength, vast size, energy blasts, reality alternation, extreme cosmic power",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Crisis-on-Infinite-Earths-6/digital-comic/T0982300065001",
+          "title": "CRISIS ON INFINITE EARTHS #6 (1985)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "366481",
@@ -3814,7 +5420,20 @@
         163542,
         373431,
         267716
-      ]
+      ],
+      "facts": {
+        "powers": "archery, unrivaled aim, exceptional martial artist, weapons expert, combat skill",
+        "alterEgo": "Speedy, Red Arrow",
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/More-Fun-Comics-1936-1947-73/digital-comic/T0915200735001",
+          "title": "MORE FUN COMICS #73 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366486",
@@ -3832,7 +5451,19 @@
         267176,
         373346,
         373351
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, combat strategy, superhuman agility, enhanced strength, enhanced speed, durability, sees enemy moves and attacks before they happen",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "STORMWATCH #4 (1998)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366611",
@@ -3852,7 +5483,19 @@
         366621,
         366326,
         366641
-      ]
+      ],
+      "facts": {
+        "powers": "magic, supernatural knowledge, teleportation, illusion casting, shapeshifting",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "STRANGE ADVENTURES #187 (1966)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "366621",
@@ -3874,7 +5517,20 @@
         366611,
         272536,
         270141
-      ]
+      ],
+      "facts": {
+        "powers": "boomerang throwing, unrivaled aim, combat skill, complete unpredictability",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Flash-1959-1985-117/digital-comic/T0820901175001",
+          "title": "THE FLASH #117 (1960)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "366636",
@@ -3894,7 +5550,19 @@
         366326,
         272536,
         270141
-      ]
+      ],
+      "facts": {
+        "powers": "combat skill, combat strategy, weapons expert",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "THE BRAVE AND THE BOLD #25 (1959)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366641",
@@ -3915,7 +5583,20 @@
         366326,
         267716,
         356056
-      ]
+      ],
+      "facts": {
+        "powers": "pyrokinesis, high-temperature flame control",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/El-Diablo-2008-2009-1/digital-comic/T0630700015001",
+          "title": "EL DIABLO #1 (2008)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "366806",
@@ -3928,7 +5609,20 @@
         148012,
         366736,
         341386
-      ]
+      ],
+      "facts": {
+        "powers": "genius-level intellect, advanced technology, gymnastic ability, skilled fighter",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Sensation-Comics-1942-1952-1/digital-comic/T0889500015001",
+          "title": "SENSATION COMICS #1 (1942)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "367261",
@@ -3941,7 +5635,20 @@
         373371,
         374461,
         341381
-      ]
+      ],
+      "facts": {
+        "powers": "immortality, durability, genius-level intellect, combat strategy, supernatural knowledge, political influence, inexhaustible resources",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Green-Lantern-1941-1949-10/digital-comic/T0974200105001",
+          "title": "GREEN LANTERN #10 (1943)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "367321",
@@ -3954,7 +5661,20 @@
         163542,
         148012,
         367326
-      ]
+      ],
+      "facts": {
+        "powers": "genius-level intellect, inexhaustible resources, advanced technology, political influence, criminal mastermind, supernatural knowledge",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Titans-1999-2003-1/digital-comic/T0164200015001",
+          "title": "THE TITANS #1 (1999)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "367326",
@@ -3972,7 +5692,19 @@
         291221,
         148012,
         367321
-      ]
+      ],
+      "facts": {
+        "powers": "varies depending on members",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "SUPERMAN FAMILY #205 (1981)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "367341",
@@ -3986,7 +5718,23 @@
         366696,
         267716,
         373431
-      ]
+      ],
+      "facts": {
+        "powers": "animal-driven abilities, combat skill, flight, enhanced speed, enhanced strength, superhuman agility",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Detroit",
+          "Base of Operations: Detroit"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Action-Comics-1938-2011-521/digital-comic/T0003305215001",
+          "title": "ACTION COMICS #521 (1981)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "367971",
@@ -4001,7 +5749,20 @@
         369141,
         357696,
         356071
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, combat skill, durability, superhuman agility, advanced technology, teleportation, energy blasts, weapons expert, master swordsman",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Mister-Miracle-1971-1978-4/digital-comic/T1006900045001",
+          "title": "MISTER MIRACLE #4 (1971)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "369141",
@@ -4017,7 +5778,20 @@
         369491,
         367971,
         130859
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-New-Gods-1971-1978-1/digital-comic/T1006800015001",
+          "title": "THE NEW GODS #1 (1971)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "369491",
@@ -4034,7 +5808,20 @@
         345621,
         338536,
         356071
-      ]
+      ],
+      "facts": {
+        "powers": "master escape artist, super strength, combat skill, durability, advanced technology, teleportation, force fields",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Mister-Miracle-1971-1978-1/digital-comic/T1006900015001",
+          "title": "MISTER MIRACLE #1 (1971)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "369581",
@@ -4047,7 +5834,20 @@
         371006,
         291221,
         130857
-      ]
+      ],
+      "facts": {
+        "powers": "varies depending on members",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/My-Greatest-Adventure-1955-1964-80/digital-comic/T0999300805001",
+          "title": "MY GREATEST ADVENTURE #80 (1963)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "369706",
@@ -4059,7 +5859,20 @@
       "relatedCharactersApiId": [
         266356,
         369711
-      ]
+      ],
+      "facts": {
+        "powers": "time travel, genius-level intellect, combat skill",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Showcase-1956-1978-20/digital-comic/T0823300205001",
+          "title": "SHOWCASE #20 (1959)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "372651",
@@ -4072,7 +5885,20 @@
         148012,
         130854,
         163540
-      ]
+      ],
+      "facts": {
+        "powers": "intelligence, advanced technology",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Detective-Comics-1937-2011-608/digital-comic/T0039006085001",
+          "title": "DETECTIVE COMICS #608 (1989)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "372726",
@@ -4089,7 +5915,22 @@
         372871,
         367316,
         367031
-      ]
+      ],
+      "facts": {
+        "powers": "super speed, time control",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Keystone City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Flash-Secret-Files-1997-3/digital-comic/T0120200035001",
+          "title": "THE FLASH: SECRET FILES AND ORIGINS #3 (2001)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "372851",
@@ -4108,7 +5949,20 @@
         443908,
         443909,
         373371
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, enhanced speed, durability, unrivaled swimmer, underwater breathing, hydrokinesis, weather manipulation",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Aquaman-1962-1978-29/digital-comic/T0962100295001?ref=c2l0ZS9saXN0L2Rlc2t0b3AvZ3JpZExpc3QvSXNzdWVz",
+          "title": "AQUAMAN #29 (2015)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "372871",
@@ -4121,7 +5975,22 @@
         130849,
         341386,
         366736
-      ]
+      ],
+      "facts": {
+        "powers": "super speed, intangibility, superhuman agility",
+        "alterEgo": "The Flash",
+        "additionalInfo": [
+          "Base of Operations: Keystone City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Flash-Comics-Vol-1-1/digital-comic/T0974300015001",
+          "title": "FLASH COMICS #1 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "373321",
@@ -4134,7 +6003,20 @@
         366696,
         367011,
         338536
-      ]
+      ],
+      "facts": {
+        "powers": "creates and controls lightning, creates and controls electromagnetic fields, Olympic-level athlete, skilled fighter",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Black-Lightning-1977-1978-1/digital-comic/T1331700015001",
+          "title": "BLACK LIGHTNING #1 (1977)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "398531",
@@ -4152,7 +6034,20 @@
         130857,
         367026,
         444305
-      ]
+      ],
+      "facts": {
+        "powers": "supernatural knowledge, soul draining, energy blasts, energy manipulation, elemental transmutation, extreme cosmic power",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/New-Teen-Titans-1980-1988-2/digital-comic/T0967300025001",
+          "title": "NEW TEEN TITANS #2 (1980)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "400596",
@@ -4168,7 +6063,22 @@
         367971,
         130859,
         341386
-      ]
+      ],
+      "facts": {
+        "powers": "combat strategy, combat skill, master swordsman, skilled fighter, master tactician, energy blasts",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Apokolips"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-New-Gods-1971-1978-7/digital-comic/T1006800075001",
+          "title": "THE NEW GODS #7 (1972)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "406011",
@@ -4176,7 +6086,17 @@
       "description": "<p>A priest wanting to connect with God isn't unusual. That sort of comes with the job. A priest wanting to locate God for the sake of giving him a stern talking-to and maybe a punch in the face? That's not exactly common. Then again, the phrase \"not exactly common\" applies to many of Jesse Custer's actions...</p><p>Preacher is the infamous acclaimed series that gathers congregations of readers around the wayward preacher Jesse Custer, who—after absorbing the supernatural creature known as Genesis—finds himself with the ability to make people do what he says. So he takes his new power and hits the road, intending to have a word with the Almighty about the state of the world. With his quirky new pal Cassidy—who just happens to be a vampire—and his old girlfriend Tulip by his side, Jesse travels the United States, looking for God in all the wrong places.</p><p>As he makes his way from one corner of the country to another, Jesse just may discover there’s a lot more to life than he ever realized. However, not all of it is good, and when his uncompromising methods set him at odds with many of the world’s most depraved individuals, some bizarre cult-like organizations, and one ornery evil saint, you have to wonder…when it comes to finding a God who’s abandoned us, does Jesse Custer even have a prayer?</p>",
       "name": "jesse custer",
       "created": 1468622316,
-      "authorApiId": 1321
+      "authorApiId": 1321,
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Preacher-1/digital-comic/T0040500015001?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9pdGVtU2xpZGVy",
+          "title": "PREACHER #1 (1995)"
+        }
+      },
+      "type": []
     },
     {
       "searchApiId": "431405",
@@ -4189,7 +6109,17 @@
         148015,
         276461,
         444283
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Sandman-4/digital-comic/T0946300045001?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy",
+          "title": "THE SANDMAN #4 (1989)"
+        }
+      },
+      "type": []
     },
     {
       "searchApiId": "443906",
@@ -4207,7 +6137,20 @@
         443907,
         443909,
         443908
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, enhanced speed, durability, unrivaled swimmer, underwater breathing, skilled fighter, hydrokinesis",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Aquaman-2011-2016-19/digital-comic/T1039200195001?ref=c2l0ZS9saXN0L2Rlc2t0b3AvZ3JpZExpc3QvSXNzdWVz",
+          "title": "AQUAMAN #19 (2013)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "443907",
@@ -4225,7 +6168,21 @@
         443906,
         443909,
         443908
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, enhanced speed, durability, unrivaled swimmer, underwater breathing, political influence, master tactician, intelligence",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Atlantis"
+        ],
+        "firstAppearence": {
+          "title": "THE BRAVE AND THE BOLD #73 (1967)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "443908",
@@ -4243,7 +6200,20 @@
         443906,
         443907,
         443909
-      ]
+      ],
+      "facts": {
+        "powers": "intelligence",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Aquaman-2011-2016-2/digital-comic/T1039200025001?ref=c2l0ZS9saXN0L2Rlc2t0b3AvZ3JpZExpc3QvSXNzdWVz",
+          "title": "AQUAMAN #2 (2011)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "443909",
@@ -4261,7 +6231,20 @@
         443906,
         443907,
         443908
-      ]
+      ],
+      "facts": {
+        "powers": "",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Adventure-Comics-1935-1983-260-269-270/digital-comic/PC0024?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9Jc3N1ZXM",
+          "title": "ADVENTURE COMICS #260 (1959)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "443910",
@@ -4279,7 +6262,22 @@
         443906,
         443907,
         443908
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, enhanced speed, durability, unrivaled swimmer, underwater breathing, skilled fighter",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Atlantis"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Adventure-Comics-1935-1983-260-269-270/digital-comic/PC0024?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9Jc3N1ZXM",
+          "title": "ADVENTURE COMICS #260 (1959)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "444305",
@@ -4292,7 +6290,20 @@
         163542,
         267446,
         130854
-      ]
+      ],
+      "facts": {
+        "powers": "enhanced strength, superhuman agility, healing factor, body density, flight, empathy, danger sense",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Showcase-1956-1978-75/digital-comic/T0823300755001",
+          "title": "SHOWCASE #75 (1968)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "445548",
@@ -4309,7 +6320,19 @@
         445551,
         445552,
         445553
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, invulnerability, superhuman agility, super speed, living lightning, healing factor",
+        "alterEgo": "Lady Shazam, Mary Shazam, Mary Bromfield",
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "CAPTAIN MARVEL ADVENTURES #18 (1942)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "445549",
@@ -4326,7 +6349,19 @@
         445551,
         445552,
         445553
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, invulnerability, superhuman agility, super speed, electro-blasts, healing factor",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "WHIZ COMICS#25 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "445550",
@@ -4343,7 +6378,19 @@
         445551,
         445552,
         445553
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, invulnerability, superhuman agility, super speed, living lightning",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "CAPTAIN MARVEL ADVENTURES #18 (1942)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "445551",
@@ -4360,7 +6407,19 @@
         445548,
         445552,
         445553
-      ]
+      ],
+      "facts": {
+        "powers": "magic, longevity, reality alteration, supernatural knowledge",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "WHIZ COMICS #2 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "445552",
@@ -4377,7 +6436,19 @@
         445548,
         445549,
         445553
-      ]
+      ],
+      "facts": {
+        "powers": "spiritual possession, supernatural knowledge, other powers vary by sin",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "WHIZ COMICS #2 (1940)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "445553",
@@ -4394,7 +6465,19 @@
         445550,
         445551,
         445552
-      ]
+      ],
+      "facts": {
+        "powers": "speech, impeccable fashion sense",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "CAPTAIN MARVEL ADVENTURES #79 (1947)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "448027",
@@ -4412,7 +6495,19 @@
         445553,
         270656,
         445552
-      ]
+      ],
+      "facts": {
+        "powers": "genius-level intellect, magic, supernatural knowledge",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "WHIZ COMICS #2 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "449673",
@@ -4423,7 +6518,20 @@
       "authorApiId": 1321,
       "relatedCharactersApiId": [
         366476
-      ]
+      ],
+      "facts": {
+        "powers": "immortality, genius-level intellect, extreme cosmic power, dimensional manipulation, energy blasts, size alteration, psionics, teleportation, matter manipulation, super strength, super speed, durability, flight",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/New-Teen-Titans-1980-1988-21/digital-comic/T0967300215001",
+          "title": "NEW TEEN TITANS #21 (1982)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "450130",
@@ -4435,7 +6543,20 @@
       "relatedCharactersApiId": [
         449673,
         366476
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, durability, duplication, multiversal knowledge",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/New-Teen-Titans-1980-1988-Annual-2/digital-comic/T0967400025001",
+          "title": "NEW TEEN TITANS ANNUAL #2 (1983)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "450133",
@@ -4451,7 +6572,20 @@
         366736,
         270656,
         272316
-      ]
+      ],
+      "facts": {
+        "powers": "psychic power, emotional manipulation",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/All-Star-Comics-23/digital-comic/T0889400235001",
+          "title": "ALL-STAR COMICS #23 (1944)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "450477",
@@ -4478,7 +6612,22 @@
         367196,
         430326,
         269041
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, skilled fighter, peak agility, combat strategy, weapons expert",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-567/digital-comic/T0037605675001",
+          "title": "BATMAN #567 (1999)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "367196",
@@ -4500,7 +6649,22 @@
         450477,
         366411,
         430326
-      ]
+      ],
+      "facts": {
+        "powers": "combat skill, weapons expert, criminal mastermind, master torturer",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-386/digital-comic/T0037603865001",
+          "title": "BATMAN #386 (1985)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "366306",
@@ -4523,7 +6687,22 @@
         270141,
         272296,
         272316
-      ]
+      ],
+      "facts": {
+        "powers": "control over plant life, intelligence, immunity to toxins, pheromone usage, secretes deadly toxins",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-181/digital-comic/T0037601815001",
+          "title": "BATMAN #181 (1966)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "273176",
@@ -4536,7 +6715,23 @@
         130849,
         373371,
         374461
-      ]
+      ],
+      "facts": {
+        "powers": "telepathy, telekinesis, super strength, superhuman agility, intelligence, combat strategy",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gorilla City",
+          "Alignment: Villain"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Flash-1959-1985-106/digital-comic/T0820901065001",
+          "title": "THE FLASH #106 (1959)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "148012",
@@ -4561,7 +6756,24 @@
         345626,
         357731,
         366481
-      ]
+      ],
+      "facts": {
+        "powers": "archery, unrivaled aim, exceptional martial artist, inexhaustible wealth",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Seattle",
+          "Alignment: Hero",
+          "Real Name: Oliver Queen"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/More-Fun-Comics-1936-1947-73/digital-comic/T0915200735001",
+          "title": "MORE FUN COMICS #73 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "267691",
@@ -4594,7 +6806,22 @@
         372596,
         372601,
         269066
-      ]
+      ],
+      "facts": {
+        "powers": "hard light constructs, instant weaponry, force fields, flight, durability, alien technology",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Oa"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Showcase-1956-1978-22/digital-comic/T0823300225001",
+          "title": "SHOWCASE #22 (1959)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "281856",
@@ -4612,7 +6839,23 @@
         366696,
         372596,
         341386
-      ]
+      ],
+      "facts": {
+        "powers": "flight, enhanced strength, healing factor, weapons expert, combat skill",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Shayera Hol/Kendra Saunders (Earth 2)",
+          "Alignment: Hero"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Flash-Comics-Vol-1-1/digital-comic/T0974300015001",
+          "title": "FLASH COMICS #1 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "287101",
@@ -4639,7 +6882,23 @@
         372596,
         372601,
         357731
-      ]
+      ],
+      "facts": {
+        "powers": "flight, enhanced strength, weapons expert, combat skill",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Carter Hall",
+          "Alignment: Hero"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Flash-Comics-Vol-1-1/digital-comic/T0974300015001",
+          "title": "FLASH COMICS #1 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "367316",
@@ -4657,7 +6916,22 @@
         287101,
         281856,
         369706
-      ]
+      ],
+      "facts": {
+        "powers": "high-temperature flame control",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Central City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Flash-1959-1985-140/digital-comic/T0820901405001",
+          "title": "THE FLASH #140 (1963)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "366631",
@@ -4680,7 +6954,19 @@
         366391,
         366306,
         269421
-      ]
+      ],
+      "facts": {
+        "powers": "animal-driven abilities, enhanced strength and speed, durability, ferocity, ability to breathe underwater, enhanced senses",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "SUPERBOY #0 (1994)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "430326",
@@ -4714,7 +7000,22 @@
         266826,
         163540,
         366316
-      ]
+      ],
+      "facts": {
+        "powers": "intelligence, complete unpredictability, combat skill",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-Shadow-of-the-Bat-1/digital-comic/T0038000015001",
+          "title": "BATMAN: SHADOW OF THE BAT #1 (1992)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "366436",
@@ -4733,7 +7034,24 @@
         366341,
         297231,
         273181
-      ]
+      ],
+      "facts": {
+        "powers": "fearless, unwavering loyalty, unyielding drive to discover the truth, keen photographic eye",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Weapon of Choice: Camera",
+          "Base of Operations: Metropolis",
+          "Base of Operations: Metropolis"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Superman-1939-2011-13/digital-comic/T0823700135001",
+          "title": "SUPERMAN #13 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "270141",
@@ -4776,7 +7094,25 @@
         374461,
         357691,
         357721
-      ]
+      ],
+      "facts": {
+        "powers": "complete unpredictability, intelligence",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Alignment: Villain",
+          "Base of Operations: Gotham",
+          "Base of Operations: Gotham",
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-1/digital-comic/T0037600015001",
+          "title": "BATMAN #1 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "130859",
@@ -4811,7 +7147,23 @@
         269081,
         374461,
         373371
-      ]
+      ],
+      "facts": {
+        "powers": "varies depending on members",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: The Watchtower",
+          "Alignment: Hero"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Brave-and-the-Bold-1955-1983-28/digital-comic/T0868300285001",
+          "title": "THE BRAVE AND THE BOLD #28 (1960)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366616",
@@ -4835,7 +7187,20 @@
         367011,
         267716,
         269041
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, supernatural knowledge, master swordsman",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Brave-and-the-Bold-1955-1983-200/digital-comic/T0868302005001",
+          "title": "BRAVE AND THE BOLD #200 (1983)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "297241",
@@ -4855,7 +7220,21 @@
         358051,
         366436,
         282101
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: Family pet"
+        ],
+        "firstAppearence": {
+          "title": "ADVENTURE COMICS #210 (1955)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "270671",
@@ -4888,7 +7267,23 @@
         430326,
         366326,
         366391
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, gymnastic ability, combat skill",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: Thief",
+          "Real Name: Selina Kyle"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-1/digital-comic/T0037600015001",
+          "title": "BATMAN #1 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "368126",
@@ -4911,7 +7306,20 @@
         366406,
         366321,
         287101
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, gymnastic ability, flight, enhanced strength and speed, superhuman agility, force fields, energy manipulation",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Stars-and-S-T-R-I-P-E-1999-2000-0/digital-comic/T0165400005001",
+          "title": "STARS AND S.T.R.I.P.E. #0 (1999)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366326",
@@ -4944,7 +7352,22 @@
         341726,
         341681,
         366306
-      ]
+      ],
+      "facts": {
+        "powers": "enhanced strength, durability, razor-sharp teeth and claws, expert wrestler, unrivaled swimmer",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-357/digital-comic/T0037603575001",
+          "title": "BATMAN #357 (1984)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "286381",
@@ -4955,7 +7378,23 @@
       "authorApiId": 1321,
       "relatedCharactersApiId": [
         269676
-      ]
+      ],
+      "facts": {
+        "powers": "cryogenic ability, fatally absorbs heat from living creatures",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Caitlin Snow",
+          "Occupation: Former scientist"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Firestorm-The-Nuclear-Man-1978-3/digital-comic/T0969000035001",
+          "title": "FIRESTORM #3 (1978)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "366736",
@@ -4972,7 +7411,20 @@
         373781,
         373786,
         372871
-      ]
+      ],
+      "facts": {
+        "powers": "varies depending on members",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/All-Star-Comics-3/digital-comic/T0889400035001",
+          "title": "ALL-STAR COMICS #3 (1940)"
+        }
+      },
+      "type": [
+        "Teams"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "270146",
@@ -4999,7 +7451,25 @@
         366726,
         367831,
         395141
-      ]
+      ],
+      "facts": {
+        "powers": "genius-level intellect, inexhaustible wealth, political influence",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Alignment: Villain",
+          "Occupation: CEO of LexCorp",
+          "Base of Operations: Metropolis",
+          "Base of Operations: Metropolis"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Action-Comics-1938-2011-23/digital-comic/T0003300235001",
+          "title": "ACTION COMICS #23 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "366356",
@@ -5007,7 +7477,20 @@
       "description": "<p>The Last Czarnian and \"The Main Man,\" Lobo is the most badass bounty hunter in the galaxy.</p>\n\n<p>He’s the best bounty hunter in the known universe and the last sentient being you’d ever want to get into a bar fight with if you hope to make it out in one piece. He’s the intergalactic alien badass known as Lobo, often called by his nickname “The Main Man,” and if you’re lucky, you’ll never cross his path.</p>\n\n<p>You might be asking yourself why an alien being would be named after an Earth animal, even one as fierce as a wolf. That’s because the word “Lobo” in this instance translates into “he who devours your entrails and thoroughly enjoys it” in the ancient Khund dialect. Turns out, his parents could not have given him a more fitting name.</p>\n\n<p>Riding around the spaceways on his “space cycle,” which he named Spacehog, Lobo exhibits all the traits someone would associate with a biker in a Hell’s Angels-style motorcycle gang on Earth, from his long hair and tattoos, down to his kill or be killed attitude. There’s nothing in the galaxy that Lobo loves more than his pet dolphins, a good fight, the ladies and getting drunk in some intergalactic dive bar. Probably all in that order.</p>\n\n<p>Over the years, Lobo has fought on the side of both the good guys and the bad, pretty much just drifting towards whoever pays him the most to get the job done, or which side promises him the better, bloodier fight. He’s tussled with Superman and the Justice League, and just about every superhero in the DC Universe.</p>\n\n<p><br /><em><strong>For more on Lobo's history, <a href=\"https://www.dcuniverse.com/encyclopedia/lobo/\" target=\"_blank\">visit his page on DCUniverse.com.</a></strong></em></p>\n",
       "name": "lobo",
       "created": 1432056934,
-      "authorApiId": 1
+      "authorApiId": 1,
+      "facts": {
+        "powers": "super strength, invulnerability, super speed, healing factor, alien technology, combat skill, weapons expert",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Omega-Men-1983-1986-3/digital-comic/T1186900035001",
+          "title": "OMEGA MEN #3 (1983)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "358051",
@@ -5032,7 +7515,22 @@
         366726,
         367831,
         395141
-      ]
+      ],
+      "facts": {
+        "powers": "intelligence, brilliant deductive skills, award-winning journalist, combat skill",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Metropolis"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Action-Comics-1938-2011-1/digital-comic/T0003300015001",
+          "title": "ACTION COMICS #1 (1938)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "280841",
@@ -5049,7 +7547,22 @@
         367326,
         373431,
         267726
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, combat strategy, durability, enhanced strength and speed, weapons expert, superhuman agility, master swordsman",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Real Name: Slade Wilson"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/New-Teen-Titans-1980-1988-2/digital-comic/T0967300025001",
+          "title": "THE NEW TEEN TITANS #2 (1980)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "372866",
@@ -5071,7 +7584,20 @@
         452988,
         366346,
         432282
-      ]
+      ],
+      "facts": {
+        "powers": "criminal mastermind, intelligence, advanced technology, political influence, mind control, telepathy",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Justice-League-1987-1996-1/digital-comic/T0003000015001",
+          "title": "JUSTICE LEAGUE #1 (1987)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "130865",
@@ -5110,7 +7636,20 @@
         431653,
         372866,
         453129
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, invulnerability, flight, combat skill, combat strategy, superhuman agility, healing factor, magic weaponry",
+        "alterEgo": "Diana Prince",
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/All-Star-Comics-8/digital-comic/T0889400085001",
+          "title": "ALL-STAR COMICS #8 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "432282",
@@ -5131,7 +7670,20 @@
         366696,
         373361,
         453129
-      ]
+      ],
+      "facts": {
+        "powers": "combat strategy, combat skill, expert pilot",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/All-Star-Comics-8/digital-comic/T0889400085001",
+          "title": "ALL-STAR COMICS #8 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "283341",
@@ -5149,7 +7701,22 @@
         432282,
         452443,
         453129
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, invulnerability, combat skill, combat strategy, weapons expert, creates conflict wherever he goes",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Occupation: God of War"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Wonder-Woman-1942-1986-1/digital-comic/T0854300015001",
+          "title": "WONDER WOMAN #1 (1942)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "It's complicated"
     },
     {
       "searchApiId": "366346",
@@ -5173,7 +7740,20 @@
         451635,
         431653,
         453129
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, superhuman agility, skilled fighter, razor-sharp teeth and claws, severe bloodlust",
+        "alterEgo": "Barbara Ann Minerva",
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Wonder-Woman-1942-1986-6/digital-comic/T0854300065001",
+          "title": "WONDER WOMAN #6 (1943)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "373731",
@@ -5196,7 +7776,20 @@
         366736,
         372866,
         453129
-      ]
+      ],
+      "facts": {
+        "powers": "combat skill, combat strategy, enhanced strength and speed, intelligence, natural leader",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/All-Star-Comics-8/digital-comic/T0889400085001",
+          "title": "ALL-STAR COMICS #8 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "367026",
@@ -5221,7 +7814,20 @@
         283341,
         366346,
         453129
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, durability, superhuman agility, healing factor, skilled fighter, magic weaponry",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/The-Brave-and-the-Bold-1955-1983-60/digital-comic/T0868300605001",
+          "title": "THE BRAVE AND THE BOLD #60 (1965)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366396",
@@ -5246,7 +7852,19 @@
         367271,
         269421,
         289986
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, superhuman agility, flight, force fields, magic weaponry",
+        "alterEgo": "Cassie Sandsmark",
+        "additionalInfo": [],
+        "firstAppearence": {
+          "title": "WONDER WOMAN #105 (1996)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "452443",
@@ -5268,7 +7886,20 @@
         366396,
         367026,
         373361
-      ]
+      ],
+      "facts": {
+        "powers": "combat skill, weapons expert",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Sensation-Comics-1942-1952-2-3/digital-comic/PC0013",
+          "title": "SENSATION COMICS #2 (1942)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "452988",
@@ -5290,7 +7921,20 @@
         431653,
         453129,
         372866
-      ]
+      ],
+      "facts": {
+        "powers": "combat skill, combat strategy, enhanced strength and speed, durability, superhuman agility",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Wonder-Woman-1942-1986-312/digital-comic/T0854303125001",
+          "title": "WONDER WOMAN #312 (1984)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "130861",
@@ -5343,7 +7987,23 @@
         360806,
         360821,
         360841
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor",
+        "alterEgo": "Clark Kent, Kal-El",
+        "additionalInfo": [
+          "Occupation: Reporter",
+          "Base of Operations: Metropolis"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Action-Comics-1938-2011-1/digital-comic/T0003300015001",
+          "title": "ACTION COMICS #1 (1938)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "130854",
@@ -5420,7 +8080,24 @@
         357726,
         357731,
         360841
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology",
+        "alterEgo": "Bruce Wayne",
+        "additionalInfo": [
+          "AKA: Dark Knight, Caped Crusader, Matches Malone",
+          "Occupation: CEO of Wayne Enterprises",
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Detective-Comics-1937-2011-27/digital-comic/T0039000275001",
+          "title": "DETECTIVE COMICS #27 (1939)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "130853",
@@ -5450,7 +8127,22 @@
         356036,
         345621,
         345626
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, durability, control over sea life, exceptional swimming ability, ability to breathe underwater",
+        "alterEgo": "Arthur Curry",
+        "additionalInfo": [
+          "Base of Operations: Atlantis"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/More-Fun-Comics-1936-1947-73/digital-comic/T0915200735001",
+          "title": "MORE FUN COMICS #73 (1941)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "130849",
@@ -5497,7 +8189,24 @@
         357706,
         345626,
         357731
-      ]
+      ],
+      "facts": {
+        "powers": "super speed, intangibility, superhuman agility",
+        "alterEgo": "Barry Allen, Jay Garrick, Wally West",
+        "additionalInfo": [
+          "AKA: Scarlet Speedster, The Fastest Man Alive",
+          "Occupation: Forensic scientist",
+          "Base of Operations: Central City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Flash-Comics-Vol-1-1/digital-comic/T0974300015001",
+          "title": "FLASH COMICS #1 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "130857",
@@ -5522,7 +8231,22 @@
         369581,
         338516,
         345626
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, advanced technology, instant weaponry, genius-level intellect, control over technology, computer hacking, durability, teleportation",
+        "alterEgo": "Victor &quot;Vic&quot; Stone",
+        "additionalInfo": [
+          "Base of Operations: Detroit"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/DC-Comics-Presents-1978-1986-26/digital-comic/T0867200265001",
+          "title": "DC COMICS PRESENTS #26 (1980)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "451635",
@@ -5550,7 +8274,20 @@
         366346,
         431653,
         453129
-      ]
+      ],
+      "facts": {
+        "powers": "psychic power, psionics, astral projection, telepathy, telekinesis, mind control, ectokinesis",
+        "alterEgo": "Edgar Cizko",
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Wonder-Woman-1942-1986-5/digital-comic/T0854300055001",
+          "title": "WONDER WOMAN #5 (1943)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "453236",
@@ -5572,7 +8309,20 @@
         372866,
         431653,
         451635
-      ]
+      ],
+      "facts": {
+        "powers": "genius-level intellect, political influence, master strategist, inexhaustible wealth",
+        "alterEgo": null,
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Wonder-Woman-1987-2006-196/digital-comic/T0001101965001",
+          "title": "WONDER WOMAN #196 (2003)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "453129",
@@ -5600,7 +8350,20 @@
         366691,
         373371,
         374461
-      ]
+      ],
+      "facts": {
+        "powers": "super strength, durability, size alteration",
+        "alterEgo": "Doris Zuel",
+        "additionalInfo": [],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Wonder-Woman-1942-1986-9/digital-comic/T0854300095001",
+          "title": "WONDER WOMAN #9 (1944)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Villains"
     },
     {
       "searchApiId": "130858",
@@ -5661,7 +8424,23 @@
         357726,
         360821,
         360841
-      ]
+      ],
+      "facts": {
+        "powers": "hard light constructs, instant weaponry, force fields, flight, durability, alien technology",
+        "alterEgo": "Hal Jordan",
+        "additionalInfo": [
+          "Base of Operations: Coast City",
+          "Occupation: Test pilot"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/All-American-Comics-1939-1948-16/digital-comic/T0974400165001",
+          "title": "ALL-AMERICAN COMICS #16 (1940)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366316",
@@ -5702,7 +8481,22 @@
         366366,
         374281,
         367256
-      ]
+      ],
+      "facts": {
+        "powers": "exceptional martial artist, combat skill, combat strategy, gymnastic ability, peak agility, customized weapons",
+        "alterEgo": "Jason Todd",
+        "additionalInfo": [
+          "Base of Operations: Gotham City"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Batman-1940-2011-357/digital-comic/T0037603575001",
+          "title": "BATMAN #357 (1983)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     },
     {
       "searchApiId": "366421",
@@ -5733,7 +8527,32 @@
         413641,
         427661,
         130859
-      ]
+      ],
+      "facts": {
+        "powers": "hard light constructs, instant weaponry, force fields, flight, durability, alien technology",
+        "alterEgo": null,
+        "additionalInfo": [
+          "Base of Operations: Oa"
+        ],
+        "firstAppearence": {
+          "url": "https://www.readdc.com/Green-Lantern-1960-1986-87/digital-comic/T0826700875001",
+          "title": "GREEN LANTERN #87 (1971)"
+        }
+      },
+      "type": [
+        "Individuals"
+      ],
+      "alignment": "Heroes"
     }
-  ]
+  ],
+  "alignments": {
+    "44072": "Heroes",
+    "44073": "Villains",
+    "44074": "It's complicated"
+  },
+  "types": {
+    "44070": "Individuals",
+    "44071": "Teams",
+    "79397": "Places"
+  }
 }
