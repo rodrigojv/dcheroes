@@ -69,4 +69,18 @@ function parseTypeAndAlignments() {
   });
 }
 
-parseTypeAndAlignments();
+function aplanarFacts() {
+  const charactersDb = db.get("characters");
+  const ids = charactersDb.map("searchApiId").value();
+  ids.forEach((searchApiId) => {
+    const characterRow = charactersDb.find({ searchApiId: searchApiId });
+    const facts = characterRow.value().facts;
+    Object.keys(facts).forEach((key) => {
+      characterRow.set(key, facts[key]).write();
+    });
+
+    characterRow.unset("facts").write();
+  });
+}
+
+aplanarFacts();
