@@ -44,24 +44,15 @@ const typeDefs = gql`
     heroes(filter: AlignmentFilterInput): [Character]!
   }
 
-  input StringQueryOperatorInput {
-    eq: String
-    ne: String
-    in: [String]
-    nin: [String]
-    regex: String
-    glob: String
-  }
-
   input CharacterFilterInput {
     alignment: Alignment
     type: Type
-    name: StringQueryOperatorInput
+    keyword: String
   }
 
   input AlignmentFilterInput {
     type: Type
-    name: StringQueryOperatorInput
+    keyword: String
   }
 `;
 
@@ -99,33 +90,48 @@ function propFilter(key, filterProp, filterValue) {
   return { [key]: filterValue };
 }
 
+function withKeyword(partialResult, keyword) {
+  if (!keyword) {
+    return partialResult.value();
+  }
+
+  return partialResult
+    .value()
+    .filter(({ name }) => name.toLowerCase().includes(keyword.toLowerCase()));
+}
 // Resolvers define the technique for fetching the types defined in the
 // schema.
 const resolvers = {
   Query: {
     characters: (_, { filter = {} }) => {
-      const { alignment, type } = filter;
-      return charactersDb
-        .filter(propFilter("alignment", alignment, mapAlignment(alignment)))
-        .filter(propFilter("type", type, mapType(type)))
-        .value();
+      const { alignment, type, keyword } = filter;
+      return withKeyword(
+        charactersDb
+          .filter(propFilter("alignment", alignment, mapAlignment(alignment)))
+          .filter(propFilter("type", type, mapType(type))),
+        keyword
+      );
     },
     character: (_, { name }) => {
       return charactersDb.find({ name: name.toLowerCase() }).value();
     },
     villains: (_, { filter = {} }) => {
-      const { type } = filter;
-      return charactersDb
-        .filter({ alignment: alignmentVillains() })
-        .filter(propFilter("type", type, mapType(type)))
-        .value();
+      const { type, keyword } = filter;
+      return withKeyword(
+        charactersDb
+          .filter({ alignment: alignmentVillains() })
+          .filter(propFilter("type", type, mapType(type))),
+        keyword
+      );
     },
     heroes: (_, { filter = {} }) => {
-      const { type } = filter;
-      return charactersDb
-        .filter({ alignment: alignmentHeroes() })
-        .filter(propFilter("type", type, mapType(type)))
-        .value();
+      const { type, keyword } = filter;
+      withKeyword(
+        charactersDb
+          .filter({ alignment: alignmentHeroes() })
+          .filter(propFilter("type", type, mapType(type))),
+        keyword
+      );
     },
   },
 };
