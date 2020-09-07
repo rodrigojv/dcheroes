@@ -1,4 +1,4 @@
-const { ApolloServer, gql, FilterTypes } = require("apollo-server");
+const { ApolloServer, gql } = require("apollo-server");
 const charactersDb = require("./db").get("characters");
 
 // A schema is a collection of type definitions (hence "typeDefs")
