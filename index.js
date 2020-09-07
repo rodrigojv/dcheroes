@@ -40,6 +40,8 @@ const typeDefs = gql`
   type Query {
     characters(filter: CharacterFilterInput): [Character]!
     character(name: String!): Character
+    villains(filter: AlignmentFilterInput): [Character]!
+    heroes(filter: AlignmentFilterInput): [Character]!
   }
 
   input StringQueryOperatorInput {
@@ -52,20 +54,33 @@ const typeDefs = gql`
   }
 
   input CharacterFilterInput {
-    firstLetter: String
     alignment: Alignment
+    type: Type
+    name: StringQueryOperatorInput
+  }
+
+  input AlignmentFilterInput {
     type: Type
     name: StringQueryOperatorInput
   }
 `;
 
+const ALIGNMENT_VALUES = {
+  HEROES: "Heroes",
+  COMPLICATED: "It's complicated",
+  VILLAINS: "Villains",
+};
+
 function mapAlignment(enumValue) {
-  const ALIGNMENT_VALUES = {
-    HEROES: "Heroes",
-    COMPLICATED: "It's complicated",
-    VILLAINS: "Villains",
-  };
   return ALIGNMENT_VALUES[enumValue];
+}
+
+function alignmentVillains() {
+  return ALIGNMENT_VALUES.VILLAINS;
+}
+
+function alignmentHeroes() {
+  return ALIGNMENT_VALUES.HEROES;
 }
 
 function mapType(enumValue) {
@@ -97,6 +112,20 @@ const resolvers = {
     },
     character: (_, { name }) => {
       return charactersDb.find({ name: name.toLowerCase() }).value();
+    },
+    villains: (_, { filter = {} }) => {
+      const { type } = filter;
+      return charactersDb
+        .filter({ alignment: alignmentVillains() })
+        .filter(propFilter("type", type, mapType(type)))
+        .value();
+    },
+    heroes: (_, { filter = {} }) => {
+      const { type } = filter;
+      return charactersDb
+        .filter({ alignment: alignmentHeroes() })
+        .filter(propFilter("type", type, mapType(type)))
+        .value();
     },
   },
 };
