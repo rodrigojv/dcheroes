@@ -42,6 +42,7 @@ const typeDefs = gql`
     character(name: String!): Character
     villains(filter: AlignmentFilterInput): [Character]!
     heroes(filter: AlignmentFilterInput): [Character]!
+    teams(filter: TeamFilterInput): [Character]!
   }
 
   input CharacterFilterInput {
@@ -52,6 +53,11 @@ const typeDefs = gql`
 
   input AlignmentFilterInput {
     type: Type
+    keyword: String
+  }
+
+  input TeamFilterInput {
+    alignment: Alignment
     keyword: String
   }
 `;
@@ -74,13 +80,18 @@ function alignmentHeroes() {
   return ALIGNMENT_VALUES.HEROES;
 }
 
+const TYPE_VALUES = {
+  INDIVIDUALS: "Individuals",
+  PLACES: "Places",
+  TEAMS: "Teams",
+};
+
 function mapType(enumValue) {
-  const TYPE_VALUES = {
-    INDIVIDUALS: "Individuals",
-    PLACES: "Places",
-    TEAMS: "Teams",
-  };
   return [TYPE_VALUES[enumValue]];
+}
+
+function typeTeams() {
+  return [TYPE_VALUES.TEAMS];
 }
 
 function propFilter(key, filterProp, filterValue) {
@@ -130,6 +141,15 @@ const resolvers = {
         charactersDb
           .filter({ alignment: alignmentHeroes() })
           .filter(propFilter("type", type, mapType(type))),
+        keyword
+      );
+    },
+    teams: (_, { filter = {} }) => {
+      const { alignment, keyword } = filter;
+      return withKeyword(
+        charactersDb
+          .filter(propFilter("alignment", alignment, mapAlignment(alignment)))
+          .filter({ type: typeTeams() }),
         keyword
       );
     },
