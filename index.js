@@ -64,7 +64,7 @@ const typeDefs = gql`
 
 const ALIGNMENT_VALUES = {
   HEROES: "Heroes",
-  COMPLICATED: "It's complicated",
+  ITS_COMPLICATED: "It's complicated",
   VILLAINS: "Villains",
 };
 
