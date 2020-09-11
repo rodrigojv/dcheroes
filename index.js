@@ -114,11 +114,12 @@ function withKeyword(partialResult, keyword) {
   return partialResult
     .value()
     .filter(
-      ({ name, alterEgo, baseOfOperations, occupation }) =>
+      ({ name, alterEgo, baseOfOperations, occupation, description }) =>
         byText(name) ||
         byText(alterEgo) ||
         byText(baseOfOperations) ||
-        byText(occupation)
+        byText(occupation) ||
+        byText(description)
     );
 }
 // Resolvers define the technique for fetching the types defined in the
