@@ -115,6 +115,44 @@ function capitalizeNames() {
   });
 }
 
+function aplanarAdditionalInfo() {
+  function getOccupation(info) {
+    return getInfoValue(info, "Occupation:");
+  }
+  function getRealName(info) {
+    return getInfoValue(info, "Real Name:");
+  }
+  function getBaseOfOperations(info) {
+    return getInfoValue(info, "Base of Operations:");
+  }
+  function getInfoValue(info, infoKey = "Occupation:") {
+    if (info.includes(infoKey)) {
+      const [_, ...occupationValue] = info.split(infoKey);
+      return occupationValue.join().trim();
+    }
+  }
+  const charactersDb = db.get("characters");
+  const ids = charactersDb.map("searchApiId").value();
+  ids.forEach((searchApiId) => {
+    const characterRow = charactersDb.find({ searchApiId: searchApiId });
+    const additionalInfo = characterRow.value().additionalInfo;
+    if (additionalInfo.length !== 0) {
+      additionalInfo.forEach((info) => {
+        const occupation = getOccupation(info);
+        if (occupation) {
+          characterRow.set("occupation", occupation).write();
+        }
+
+        const baseOfOperations = getBaseOfOperations(info);
+        if (baseOfOperations) {
+          characterRow.set("baseOfOperations", baseOfOperations).write();
+        }
+        // characterRow.set(key, facts[key]).write();
+      });
+    }
+  });
+}
+
 // console.log(capitalizeName("h.i.v.e."));
 // console.log(capitalizeName("birds of prey"));
 // console.log(capitalizeName("superman"));
@@ -122,4 +160,4 @@ function capitalizeNames() {
 // console.log(capitalizeName("captain marvel jr."));
 // console.log(capitalizeName("fbp: federal bureau of physics"));
 // console.log(capitalizeName("ra's al ghul"));
-capitalizeNames();
+aplanarAdditionalInfo();

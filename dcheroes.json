@@ -28,7 +28,7 @@
       ],
       "alignment": "Heroes",
       "powers": "Super strength, Flight, Invulnerability, Super speed, Heat vision, Freeze breath, X-ray vision, Superhuman hearing, Healing factor",
-      "alterEgo": null,
+      "alterEgo": "Kara Zor-El",
       "additionalInfo": [
         "Real Name: Kara Zor-El"
       ],
@@ -62,7 +62,7 @@
       ],
       "alignment": "Heroes",
       "powers": "Control over plant life, Supernatural knowledge, Super strength",
-      "alterEgo": null,
+      "alterEgo": "Alec Holland",
       "additionalInfo": [
         "Base of Operations: Louisiana",
         "Real Name: Alec Holland",
@@ -71,7 +71,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/House-of-Secrets-1956-1978-92/digital-comic/T0820400925001",
         "title": "HOUSE OF SECRETS #92 (1971)"
-      }
+      },
+      "baseOfOperations": "Louisiana",
+      "occupation": "Former scientist"
     },
     {
       "searchApiId": "130864",
@@ -89,14 +91,15 @@
       ],
       "alignment": "Heroes",
       "powers": "Plasticity, Shapeshifting, Durability",
-      "alterEgo": null,
+      "alterEgo": "Eel O'Brien",
       "additionalInfo": [
         "Occupation: Former criminal",
         "Real Name: Eel O'Brien"
       ],
       "firstAppearence": {
         "title": "POLICE COMICS #1 (1941)"
-      }
+      },
+      "occupation": "Former criminal"
     },
     {
       "searchApiId": "148011",
@@ -126,7 +129,7 @@
       ],
       "alignment": "Heroes",
       "powers": "exceptional martial artist, combat strategy, advanced technology",
-      "alterEgo": null,
+      "alterEgo": "Barbara Gordon",
       "additionalInfo": [
         "Real Name: Barbara Gordon",
         "Base of Operations: Gotham City"
@@ -134,7 +137,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-139/digital-comic/T0037601395001",
         "title": "BATMAN #139 (1961)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "148013",
@@ -155,7 +159,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Watchmen-1-of-12/digital-comic/T0975600015001",
         "title": "WATCHMEN #1 (1987)"
-      }
+      },
+      "baseOfOperations": "New York City"
     },
     {
       "searchApiId": "148015",
@@ -239,7 +244,7 @@
       ],
       "alignment": "Heroes",
       "powers": "Exceptional martial artist, Combat strategy, Advanced technology, Gymnastic ability",
-      "alterEgo": null,
+      "alterEgo": "Richard \"Dick\" Grayson/Jason Todd/Tim Drake/Damian Wayne",
       "additionalInfo": [
         "Base of Operations: Gotham",
         "Alias/AKA: Boy Wonder",
@@ -248,7 +253,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Detective-Comics-1937-2011-38/digital-comic/T0039000385001",
         "title": "DETECTIVE COMICS #38 (1940)"
-      }
+      },
+      "baseOfOperations": "Gotham"
     },
     {
       "searchApiId": "163541",
@@ -274,7 +280,7 @@
       ],
       "alignment": "Heroes",
       "powers": "super strength, flight, invulnerability, super speed, superhuman hearing, healing factor, intelligence, magic",
-      "alterEgo": "Captain Marvel",
+      "alterEgo": "Billy Batson",
       "additionalInfo": [
         "Alignment: Hero",
         "Real Name: Billy Batson"
@@ -317,7 +323,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/The-Brave-and-the-Bold-1955-1983-54/digital-comic/T0868300545001",
         "title": "BRAVE AND THE BOLD #54 (1964)"
-      }
+      },
+      "baseOfOperations": "New York City"
     },
     {
       "searchApiId": "266356",
@@ -338,7 +345,7 @@
       ],
       "alignment": "Heroes",
       "powers": "Advanced technology, Knowledge of the future, Super strength, Flight, Durability, Energy blasts, Force fields",
-      "alterEgo": null,
+      "alterEgo": "Michael Jon Carter",
       "additionalInfo": [
         "Real Name: Michael Jon Carter"
       ],
@@ -369,7 +376,7 @@
       ],
       "alignment": "Heroes",
       "powers": "Exceptional martial artist, Combat strategy, Advanced technology, Brilliant deductive skills, Gymnastic ability",
-      "alterEgo": null,
+      "alterEgo": "Richard \"Dick\" Grayson",
       "additionalInfo": [
         "Base of Operations: Gotham",
         "Real Name: Richard \"Dick\" Grayson",
@@ -378,7 +385,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Tales-of-the-Teen-Titans-1980-1988-43/digital-comic/T0967800435001",
         "title": "TALES OF THE TEEN TITANS #43 (1984)"
-      }
+      },
+      "baseOfOperations": "Gotham",
+      "occupation": "Former acrobat"
     },
     {
       "searchApiId": "267446",
@@ -407,7 +416,7 @@
       ],
       "alignment": "Heroes",
       "powers": "spiritual possession, invisibility, intangibility, supernatural knowledge, flight",
-      "alterEgo": null,
+      "alterEgo": "Boston Brand",
       "additionalInfo": [
         "Real Name: Boston Brand"
       ],
@@ -451,7 +460,8 @@
       ],
       "firstAppearence": {
         "title": "THE BRAVE AND THE BOLD #25 (1959)"
-      }
+      },
+      "baseOfOperations": "Belle Reve Prison"
     },
     {
       "searchApiId": "268431",
@@ -470,14 +480,15 @@
       ],
       "alignment": "Heroes",
       "powers": "alien technology, super strength, flight, durability, instant weaponry, combat skill",
-      "alterEgo": null,
+      "alterEgo": "Jaime Reyes",
       "additionalInfo": [
         "Real Name: Jaime Reyes",
         "Occupation: Student"
       ],
       "firstAppearence": {
         "title": "MYSTERY MEN COMICS #1 (1939)"
-      }
+      },
+      "occupation": "Student"
     },
     {
       "searchApiId": "269036",
@@ -505,7 +516,8 @@
       ],
       "firstAppearence": {
         "title": "DETECTIVE COMICS #233 (1956)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "269041",
@@ -534,7 +546,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Black-Canary-Oracle-Birds-of-Prey-1/digital-comic/T0078700015001",
         "title": "BLACK CANARY/ORACLE: BIRDS OF PREY #1 (1995)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "269421",
@@ -558,14 +571,15 @@
       ],
       "alignment": "Heroes",
       "powers": "Super strength, Flight, Invulnerability, Super speed, Healing factor, tactile telekinesis",
-      "alterEgo": null,
+      "alterEgo": "Kon-El",
       "additionalInfo": [
         "Base of Operations: New York City",
         "Real Name: Kon-El"
       ],
       "firstAppearence": {
         "title": "MORE FUN COMICS #101 (1945)"
-      }
+      },
+      "baseOfOperations": "New York City"
     },
     {
       "searchApiId": "269676",
@@ -617,7 +631,7 @@
       ],
       "alignment": "Villains",
       "powers": "hard light constructs, instant weaponry, force fields, flight, durability, alien technology, fear provocation, intelligence",
-      "alterEgo": null,
+      "alterEgo": "Thaal Sinestro",
       "additionalInfo": [
         "Alignment: It's Complicated",
         "Real Name: Thaal Sinestro"
@@ -659,7 +673,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Aquaman-1962-1978-35/digital-comic/T0962100355001",
         "title": "AQUAMAN #35 (1967)"
-      }
+      },
+      "occupation": "Treasure hunter"
     },
     {
       "searchApiId": "270656",
@@ -727,7 +742,7 @@
       ],
       "alignment": "Villains",
       "powers": "Cryogenic ability",
-      "alterEgo": null,
+      "alterEgo": "Leonard Snart",
       "additionalInfo": [
         "Occupation: Professional criminal",
         "Real Name: Leonard Snart"
@@ -735,7 +750,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Showcase-1956-1978-8/digital-comic/T0823300085001",
         "title": "SHOWCASE #8 (1957)"
-      }
+      },
+      "occupation": "Professional criminal"
     },
     {
       "searchApiId": "272106",
@@ -765,7 +781,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Supermans-Pal-Jimmy-Olsen-1954-1974-134/digital-comic/T1000201345001",
         "title": "SUPERMAN'S PAL JIMMY OLSEN #134 (1970)"
-      }
+      },
+      "baseOfOperations": "Apokolips"
     },
     {
       "searchApiId": "272291",
@@ -795,7 +812,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-232/digital-comic/T0037602325001",
         "title": "BATMAN #232 (1971)"
-      }
+      },
+      "occupation": "International terrorist"
     },
     {
       "searchApiId": "272296",
@@ -820,7 +838,7 @@
       ],
       "alignment": "Villains",
       "powers": "Intelligence, Fear provocation",
-      "alterEgo": null,
+      "alterEgo": "Jonathan Crane",
       "additionalInfo": [
         "Base of Operations: Gotham",
         "Real Name: Jonathan Crane",
@@ -829,7 +847,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Worlds-Finest-Comics-1941-1986-3/digital-comic/T0820600035001",
         "title": "WORLD'S FINEST COMICS #3 (1941)"
-      }
+      },
+      "baseOfOperations": "Gotham",
+      "occupation": "Scientist"
     },
     {
       "searchApiId": "272301",
@@ -881,7 +901,7 @@
       ],
       "alignment": "Heroes",
       "powers": "",
-      "alterEgo": null,
+      "alterEgo": "James Gordon",
       "additionalInfo": [
         "Occupation: Police Commissioner",
         "Real Name: James Gordon",
@@ -890,7 +910,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Detective-Comics-1937-2011-27/digital-comic/T0039000275001",
         "title": "DETECTIVE COMICS #27 (1939)"
-      }
+      },
+      "occupation": "Police Commissioner"
     },
     {
       "searchApiId": "272306",
@@ -919,7 +940,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-307/digital-comic/T0037603075001",
         "title": "BATMAN #307 (1979)"
-      }
+      },
+      "baseOfOperations": "Gotham"
     },
     {
       "searchApiId": "272311",
@@ -952,7 +974,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-16/digital-comic/T0037600165001",
         "title": "BATMAN #16 (1943)"
-      }
+      },
+      "occupation": "Butler",
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "272316",
@@ -978,7 +1002,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-Vengeance-of-Bane-1-of-2/digital-comic/T0035400015001",
         "title": "BATMAN: VENGEANCE OF BANE #1 (1993)"
-      }
+      },
+      "occupation": "International terrorist"
     },
     {
       "searchApiId": "272531",
@@ -997,7 +1022,7 @@
       ],
       "alignment": "Villains",
       "powers": "Super speed, Intangibility, Durability, Time travel, Intelligence, Superhuman agility",
-      "alterEgo": null,
+      "alterEgo": "Daniel West/Eobard Thawne",
       "additionalInfo": [
         "Base of Operations: Central City",
         "Real Name: Daniel West/Eobard Thawne"
@@ -1005,7 +1030,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/The-Flash-1959-1985-139/digital-comic/T0820901395001",
         "title": "THE FLASH #139 (1963)"
-      }
+      },
+      "baseOfOperations": "Central City"
     },
     {
       "searchApiId": "272536",
@@ -1030,7 +1056,7 @@
       ],
       "alignment": "It's complicated",
       "powers": "superhuman agility, enhanced strength, intelligence",
-      "alterEgo": null,
+      "alterEgo": "Harleen Quinzel",
       "additionalInfo": [
         "Alignment: Villain",
         "Occupation: Former psychiatrist",
@@ -1041,7 +1067,9 @@
       "firstAppearence": {
         "url": "/tv/batman-the-animated-series-1992-1995",
         "title": "BATMAN: THE ANIMATED SERIES (1992)"
-      }
+      },
+      "occupation": "Former psychiatrist",
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "272776",
@@ -1060,7 +1088,7 @@
       ],
       "alignment": "It's complicated",
       "powers": "super strength, durability, projects bursts of acidic blood",
-      "alterEgo": null,
+      "alterEgo": "Atros",
       "additionalInfo": [
         "Real Name: Atros"
       ],
@@ -1117,7 +1145,7 @@
       ],
       "alignment": "Heroes",
       "powers": "Magic",
-      "alterEgo": null,
+      "alterEgo": "Zatanna Zatara",
       "additionalInfo": [
         "Occupation: Former stage magician",
         "Real Name: Zatanna Zatara"
@@ -1125,7 +1153,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Hawkman-1964-1968-4/digital-comic/T1000600045001",
         "title": "HAWKMAN #4 (1964)"
-      }
+      },
+      "occupation": "Former stage magician"
     },
     {
       "searchApiId": "275236",
@@ -1146,7 +1175,7 @@
       ],
       "alignment": "Villains",
       "powers": "Super strength, Invulnerability, Immortality",
-      "alterEgo": null,
+      "alterEgo": "Cyrus Gold",
       "additionalInfo": [
         "Real Name: Cyrus Gold"
       ],
@@ -1185,7 +1214,9 @@
       ],
       "firstAppearence": {
         "title": "AQUAMAN #1 (1963)"
-      }
+      },
+      "baseOfOperations": "Amnesty Bay",
+      "occupation": "Queen of Atlantis"
     },
     {
       "searchApiId": "276461",
@@ -1213,7 +1244,7 @@
       ],
       "alignment": "It's complicated",
       "powers": "magic, supernatural knowledge, extreme cunningness",
-      "alterEgo": null,
+      "alterEgo": "John Constantine",
       "additionalInfo": [
         "Alignment: It's Complicated",
         "Real Name: John Constantine"
@@ -1285,7 +1316,7 @@
       ],
       "alignment": "Heroes",
       "powers": "Wields the magic of House Amethyst",
-      "alterEgo": null,
+      "alterEgo": "Amy Winston",
       "additionalInfo": [
         "Real Name: Amy Winston",
         "Occupation: Princess"
@@ -1293,7 +1324,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Legion-of-Super-Heroes-1980-1985-298/digital-comic/T0917202985001",
         "title": "LEGION OF SUPER-HEROES #298 (1983)"
-      }
+      },
+      "occupation": "Princess"
     },
     {
       "searchApiId": "291216",
@@ -1314,7 +1346,7 @@
       ],
       "alignment": "Heroes",
       "powers": "Energy absorption, Energy blasts, Flight, Combat skill",
-      "alterEgo": null,
+      "alterEgo": "Koriand’r",
       "additionalInfo": [
         "Real Name: Koriand’r"
       ],
@@ -1343,7 +1375,7 @@
       ],
       "alignment": "Heroes",
       "powers": "shapeshifting, animal-driven abilities",
-      "alterEgo": null,
+      "alterEgo": "Garfield Logan",
       "additionalInfo": [
         "Real Name: Garfield Logan"
       ],
@@ -1371,7 +1403,7 @@
       ],
       "alignment": "Villains",
       "powers": "super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor",
-      "alterEgo": null,
+      "alterEgo": "Dru-Zod",
       "additionalInfo": [
         "Alignment: Villain",
         "Real Name: Dru-Zod",
@@ -1379,7 +1411,8 @@
       ],
       "firstAppearence": {
         "title": "ADVENTURE COMICS #283 (1961)"
-      }
+      },
+      "occupation": "General"
     },
     {
       "searchApiId": "299036",
@@ -1537,7 +1570,7 @@
       ],
       "alignment": "Villains",
       "powers": "unrivaled aim, weapons expert, combat skill",
-      "alterEgo": null,
+      "alterEgo": "Floyd Lawton",
       "additionalInfo": [
         "Real Name: Floyd Lawton"
       ],
@@ -2048,7 +2081,7 @@
       ],
       "alignment": "Villains",
       "powers": "genius-level intellect",
-      "alterEgo": null,
+      "alterEgo": "Edward Nygma (née Nashton)",
       "additionalInfo": [
         "Base of Operations: Gotham City",
         "Real Name: Edward Nygma (née Nashton)",
@@ -2056,7 +2089,9 @@
       ],
       "firstAppearence": {
         "title": "DETECTIVE COMICS #140 (1948)"
-      }
+      },
+      "baseOfOperations": "Gotham City",
+      "occupation": "Professional criminal"
     },
     {
       "searchApiId": "341726",
@@ -2080,7 +2115,7 @@
       ],
       "alignment": "Villains",
       "powers": "",
-      "alterEgo": null,
+      "alterEgo": "Oswald Chesterfield Cobblepot",
       "additionalInfo": [
         "Alignment: Villain",
         "Real Name: Oswald Chesterfield Cobblepot",
@@ -2090,7 +2125,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Detective-Comics-1937-2011-58/digital-comic/T0039000585001",
         "title": "DETECTIVE COMICS #58 (1941)"
-      }
+      },
+      "occupation": "Criminal, stock trader, fixer",
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "342231",
@@ -4867,7 +4904,8 @@
       ],
       "firstAppearence": {
         "title": "DETECTIVE COMICS #441 (1974)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "366311",
@@ -4905,7 +4943,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Detective-Comics-1937-2011-66/digital-comic/T0820700665001",
         "title": "DETECTIVE COMICS #66 (1942)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "366321",
@@ -4976,7 +5015,8 @@
       ],
       "firstAppearence": {
         "title": "BATMAN #121 (1959)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "366341",
@@ -5052,7 +5092,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Legends-1986-1987-1/digital-comic/T1167800015001",
         "title": "LEGENDS #1 (1986)"
-      }
+      },
+      "baseOfOperations": "Belle Reve Prison"
     },
     {
       "searchApiId": "366381",
@@ -5083,7 +5124,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/All-Star-Comics-69/digital-comic/T0889400695001",
         "title": "ALL-STAR COMICS #69 (2015)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "366391",
@@ -5113,7 +5155,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Detective-Comics-1937-2011-40/digital-comic/T0039000405001",
         "title": "DETECTIVE COMICS #40 (1940)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "366411",
@@ -5153,7 +5196,8 @@
       "firstAppearence": {
         "url": "https://www.dccomics.com/tv/batman-the-animated-series-1992-1995",
         "title": "BATMAN: THE ANIMATED SERIES (1992)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "366476",
@@ -5490,7 +5534,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Action-Comics-1938-2011-521/digital-comic/T0003305215001",
         "title": "ACTION COMICS #521 (1981)"
-      }
+      },
+      "baseOfOperations": "Detroit"
     },
     {
       "searchApiId": "367971",
@@ -5672,7 +5717,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/The-Flash-Secret-Files-1997-3/digital-comic/T0120200035001",
         "title": "THE FLASH: SECRET FILES AND ORIGINS #3 (2001)"
-      }
+      },
+      "baseOfOperations": "Keystone City"
     },
     {
       "searchApiId": "372851",
@@ -5728,7 +5774,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Flash-Comics-Vol-1-1/digital-comic/T0974300015001",
         "title": "FLASH COMICS #1 (1940)"
-      }
+      },
+      "baseOfOperations": "Keystone City"
     },
     {
       "searchApiId": "373321",
@@ -5810,7 +5857,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/The-New-Gods-1971-1978-7/digital-comic/T1006800075001",
         "title": "THE NEW GODS #7 (1972)"
-      }
+      },
+      "baseOfOperations": "Apokolips"
     },
     {
       "searchApiId": "406011",
@@ -5906,7 +5954,8 @@
       ],
       "firstAppearence": {
         "title": "THE BRAVE AND THE BOLD #73 (1967)"
-      }
+      },
+      "baseOfOperations": "Atlantis"
     },
     {
       "searchApiId": "443908",
@@ -5995,7 +6044,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Adventure-Comics-1935-1983-260-269-270/digital-comic/PC0024?ref=c2VyaWVzL3ZpZXcvZGVza3RvcC9ncmlkTGlzdC9Jc3N1ZXM",
         "title": "ADVENTURE COMICS #260 (1959)"
-      }
+      },
+      "baseOfOperations": "Atlantis"
     },
     {
       "searchApiId": "444305",
@@ -6321,7 +6371,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-567/digital-comic/T0037605675001",
         "title": "BATMAN #567 (1999)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "367196",
@@ -6356,7 +6407,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-386/digital-comic/T0037603865001",
         "title": "BATMAN #386 (1985)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "366306",
@@ -6392,7 +6444,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-181/digital-comic/T0037601815001",
         "title": "BATMAN #181 (1966)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "273176",
@@ -6419,7 +6472,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/The-Flash-1959-1985-106/digital-comic/T0820901065001",
         "title": "THE FLASH #106 (1959)"
-      }
+      },
+      "baseOfOperations": "Gorilla City"
     },
     {
       "searchApiId": "148012",
@@ -6450,7 +6504,7 @@
       ],
       "alignment": "Heroes",
       "powers": "archery, unrivaled aim, exceptional martial artist, inexhaustible wealth",
-      "alterEgo": null,
+      "alterEgo": "Oliver Queen",
       "additionalInfo": [
         "Base of Operations: Seattle",
         "Alignment: Hero",
@@ -6459,7 +6513,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/More-Fun-Comics-1936-1947-73/digital-comic/T0915200735001",
         "title": "MORE FUN COMICS #73 (1941)"
-      }
+      },
+      "baseOfOperations": "Seattle"
     },
     {
       "searchApiId": "267691",
@@ -6505,7 +6560,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Showcase-1956-1978-22/digital-comic/T0823300225001",
         "title": "SHOWCASE #22 (1959)"
-      }
+      },
+      "baseOfOperations": "Oa"
     },
     {
       "searchApiId": "281856",
@@ -6529,7 +6585,7 @@
       ],
       "alignment": "Heroes",
       "powers": "flight, enhanced strength, healing factor, weapons expert, combat skill",
-      "alterEgo": null,
+      "alterEgo": "Shayera Hol/Kendra Saunders (Earth 2)",
       "additionalInfo": [
         "Real Name: Shayera Hol/Kendra Saunders (Earth 2)",
         "Alignment: Hero"
@@ -6570,7 +6626,7 @@
       ],
       "alignment": "Heroes",
       "powers": "flight, enhanced strength, weapons expert, combat skill",
-      "alterEgo": null,
+      "alterEgo": "Carter Hall",
       "additionalInfo": [
         "Real Name: Carter Hall",
         "Alignment: Hero"
@@ -6609,7 +6665,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/The-Flash-1959-1985-140/digital-comic/T0820901405001",
         "title": "THE FLASH #140 (1963)"
-      }
+      },
+      "baseOfOperations": "Central City"
     },
     {
       "searchApiId": "366631",
@@ -6689,7 +6746,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-Shadow-of-the-Bat-1/digital-comic/T0038000015001",
         "title": "BATMAN: SHADOW OF THE BAT #1 (1992)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "366436",
@@ -6723,7 +6781,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Superman-1939-2011-13/digital-comic/T0823700135001",
         "title": "SUPERMAN #13 (1941)"
-      }
+      },
+      "baseOfOperations": "Metropolis"
     },
     {
       "searchApiId": "270141",
@@ -6782,7 +6841,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-1/digital-comic/T0037600015001",
         "title": "BATMAN #1 (1940)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "130859",
@@ -6831,7 +6891,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/The-Brave-and-the-Bold-1955-1983-28/digital-comic/T0868300285001",
         "title": "THE BRAVE AND THE BOLD #28 (1960)"
-      }
+      },
+      "baseOfOperations": "The Watchtower"
     },
     {
       "searchApiId": "366616",
@@ -6898,7 +6959,8 @@
       ],
       "firstAppearence": {
         "title": "ADVENTURE COMICS #210 (1955)"
-      }
+      },
+      "occupation": "Family pet"
     },
     {
       "searchApiId": "270671",
@@ -6937,7 +6999,7 @@
       ],
       "alignment": "It's complicated",
       "powers": "exceptional martial artist, gymnastic ability, combat skill",
-      "alterEgo": null,
+      "alterEgo": "Selina Kyle",
       "additionalInfo": [
         "Occupation: Thief",
         "Real Name: Selina Kyle"
@@ -6945,7 +7007,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-1/digital-comic/T0037600015001",
         "title": "BATMAN #1 (1940)"
-      }
+      },
+      "occupation": "Thief"
     },
     {
       "searchApiId": "368126",
@@ -7025,7 +7088,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-357/digital-comic/T0037603575001",
         "title": "BATMAN #357 (1984)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "286381",
@@ -7042,7 +7106,7 @@
       ],
       "alignment": "It's complicated",
       "powers": "cryogenic ability, fatally absorbs heat from living creatures",
-      "alterEgo": null,
+      "alterEgo": "Caitlin Snow",
       "additionalInfo": [
         "Real Name: Caitlin Snow",
         "Occupation: Former scientist"
@@ -7050,7 +7114,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Firestorm-The-Nuclear-Man-1978-3/digital-comic/T0969000035001",
         "title": "FIRESTORM #3 (1978)"
-      }
+      },
+      "occupation": "Former scientist"
     },
     {
       "searchApiId": "366736",
@@ -7121,7 +7186,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Action-Comics-1938-2011-23/digital-comic/T0003300235001",
         "title": "ACTION COMICS #23 (1940)"
-      }
+      },
+      "occupation": "CEO of LexCorp",
+      "baseOfOperations": "Metropolis"
     },
     {
       "searchApiId": "366356",
@@ -7178,7 +7245,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Action-Comics-1938-2011-1/digital-comic/T0003300015001",
         "title": "ACTION COMICS #1 (1938)"
-      }
+      },
+      "baseOfOperations": "Metropolis"
     },
     {
       "searchApiId": "280841",
@@ -7201,7 +7269,7 @@
       ],
       "alignment": "Villains",
       "powers": "exceptional martial artist, combat strategy, durability, enhanced strength and speed, weapons expert, superhuman agility, master swordsman",
-      "alterEgo": null,
+      "alterEgo": "Slade Wilson",
       "additionalInfo": [
         "Real Name: Slade Wilson"
       ],
@@ -7354,7 +7422,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Wonder-Woman-1942-1986-1/digital-comic/T0854300015001",
         "title": "WONDER WOMAN #1 (1942)"
-      }
+      },
+      "occupation": "God of War"
     },
     {
       "searchApiId": "366346",
@@ -7627,7 +7696,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Action-Comics-1938-2011-1/digital-comic/T0003300015001",
         "title": "ACTION COMICS #1 (1938)"
-      }
+      },
+      "occupation": "Reporter",
+      "baseOfOperations": "Metropolis"
     },
     {
       "searchApiId": "130854",
@@ -7719,7 +7790,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Detective-Comics-1937-2011-27/digital-comic/T0039000275001",
         "title": "DETECTIVE COMICS #27 (1939)"
-      }
+      },
+      "occupation": "CEO of Wayne Enterprises",
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "130853",
@@ -7762,7 +7835,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/More-Fun-Comics-1936-1947-73/digital-comic/T0915200735001",
         "title": "MORE FUN COMICS #73 (1941)"
-      }
+      },
+      "baseOfOperations": "Atlantis"
     },
     {
       "searchApiId": "130849",
@@ -7824,7 +7898,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Flash-Comics-Vol-1-1/digital-comic/T0974300015001",
         "title": "FLASH COMICS #1 (1940)"
-      }
+      },
+      "occupation": "Forensic scientist",
+      "baseOfOperations": "Central City"
     },
     {
       "searchApiId": "130857",
@@ -7862,7 +7938,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/DC-Comics-Presents-1978-1986-26/digital-comic/T0867200265001",
         "title": "DC COMICS PRESENTS #26 (1980)"
-      }
+      },
+      "baseOfOperations": "Detroit"
     },
     {
       "searchApiId": "451635",
@@ -8048,7 +8125,9 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/All-American-Comics-1939-1948-16/digital-comic/T0974400165001",
         "title": "ALL-AMERICAN COMICS #16 (1940)"
-      }
+      },
+      "baseOfOperations": "Coast City",
+      "occupation": "Test pilot"
     },
     {
       "searchApiId": "366316",
@@ -8102,7 +8181,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Batman-1940-2011-357/digital-comic/T0037603575001",
         "title": "BATMAN #357 (1983)"
-      }
+      },
+      "baseOfOperations": "Gotham City"
     },
     {
       "searchApiId": "366421",
@@ -8146,7 +8226,8 @@
       "firstAppearence": {
         "url": "https://www.readdc.com/Green-Lantern-1960-1986-87/digital-comic/T0826700875001",
         "title": "GREEN LANTERN #87 (1971)"
-      }
+      },
+      "baseOfOperations": "Oa"
     }
   ],
   "alignments": {

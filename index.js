@@ -26,6 +26,8 @@ const typeDefs = gql`
     type: [String]
     powers: String
     alterEgo: String
+    occupation: String
+    baseOfOperations: String
     additionalInfo: [String]
     firstAppearence: Comic!
   }
@@ -107,12 +109,17 @@ function withKeyword(partialResult, keyword) {
   }
 
   const lowKey = keyword.toLowerCase();
-  const byText = (text) => text.toLowerCase().includes(lowKey);
-  const byAlter = (alter) =>
-    alter !== null && alter.toLowerCase().includes(lowKey);
+  const byText = (text) => text != null && text.toLowerCase().includes(lowKey);
+
   return partialResult
     .value()
-    .filter(({ name, alterEgo }) => byText(name) || byAlter(alterEgo));
+    .filter(
+      ({ name, alterEgo, baseOfOperations, occupation }) =>
+        byText(name) ||
+        byText(alterEgo) ||
+        byText(baseOfOperations) ||
+        byText(occupation)
+    );
 }
 // Resolvers define the technique for fetching the types defined in the
 // schema.
