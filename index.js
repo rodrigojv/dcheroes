@@ -106,9 +106,13 @@ function withKeyword(partialResult, keyword) {
     return partialResult.value();
   }
 
+  const lowKey = keyword.toLowerCase();
+  const byText = (text) => text.toLowerCase().includes(lowKey);
+  const byAlter = (alter) =>
+    alter !== null && alter.toLowerCase().includes(lowKey);
   return partialResult
     .value()
-    .filter(({ name }) => name.toLowerCase().includes(keyword.toLowerCase()));
+    .filter(({ name, alterEgo }) => byText(name) || byAlter(alterEgo));
 }
 // Resolvers define the technique for fetching the types defined in the
 // schema.
@@ -137,7 +141,7 @@ const resolvers = {
     },
     heroes: (_, { filter = {} }) => {
       const { type, keyword } = filter;
-      withKeyword(
+      return withKeyword(
         charactersDb
           .filter({ alignment: alignmentHeroes() })
           .filter(propFilter("type", type, mapType(type))),
