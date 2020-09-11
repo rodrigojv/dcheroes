@@ -83,4 +83,43 @@ function aplanarFacts() {
   });
 }
 
-aplanarFacts();
+function capitalizeName(name) {
+  if (name.includes(" ")) {
+    return capitalizeWords(name);
+  } else if (name.includes(".")) {
+    // initials
+    return capitalizeWords(name, ".");
+  }
+  return capitalizeWord(name);
+}
+function capitalizeWords(name, split = " ") {
+  const words = name.split(split);
+  return words.map(capitalizeWord).map(specialCase).join(split);
+}
+function specialCase(name) {
+  if (name.toLowerCase() === "fbp:") {
+    return name.toUpperCase();
+  }
+  return name;
+}
+function capitalizeWord([letter, ...rest]) {
+  return [letter && letter.toUpperCase(), ...rest].join("");
+}
+function capitalizeNames() {
+  const charactersDb = db.get("characters");
+  const ids = charactersDb.map("searchApiId").value();
+  ids.forEach((searchApiId) => {
+    const characterRow = charactersDb.find({ searchApiId: searchApiId });
+    const name = characterRow.value().name;
+    characterRow.set("name", capitalizeName(name)).write();
+  });
+}
+
+// console.log(capitalizeName("h.i.v.e."));
+// console.log(capitalizeName("birds of prey"));
+// console.log(capitalizeName("superman"));
+// console.log(capitalizeName("earth-48"));
+// console.log(capitalizeName("captain marvel jr."));
+// console.log(capitalizeName("fbp: federal bureau of physics"));
+// console.log(capitalizeName("ra's al ghul"));
+capitalizeNames();
