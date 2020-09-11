@@ -16,7 +16,7 @@
 
 A public GraphQL API for DC Heroes and Characters.
 
-Inspired mainly by [SWAPI](https://github.com/graphql/swapi-graphql), the Star Wars GraphQL public API. Aimed to be used in teaching/educational settings.
+Inspired by [SWAPI](https://github.com/graphql/swapi-graphql), the Star Wars GraphQL public API. Aimed to be used in teaching/educational settings.
 
 ## Install
 
