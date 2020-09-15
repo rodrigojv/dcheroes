@@ -30,6 +30,7 @@ const typeDefs = gql`
     baseOfOperations: String
     additionalInfo: [String]
     firstAppearence: Comic!
+    relatedCharacters: [Character]
   }
 
   type Comic {
@@ -164,6 +165,17 @@ const resolvers = {
           .filter({ type: typeTeams() }),
         keyword
       );
+    },
+  },
+  Character: {
+    relatedCharacters: (parent) => {
+      const { relatedCharactersApiId } = parent;
+      const relatedCharacters = relatedCharactersApiId
+        .map((searchApiId) =>
+          charactersDb.find({ searchApiId: `${searchApiId}` }).value()
+        )
+        .filter((val) => val != null);
+      return relatedCharacters;
     },
   },
 };
