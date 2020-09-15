@@ -137,7 +137,7 @@ const resolvers = {
       );
     },
     character: (_, { name }) => {
-      return charactersDb.find({ name: name.toLowerCase() }).value();
+      return charactersDb.find({ name: name }).value();
     },
     villains: (_, { filter = {} }) => {
       const { type, keyword } = filter;
