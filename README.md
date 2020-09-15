@@ -9,14 +9,71 @@
 
 </div>
 
-<h3 align="center">
-🚧 This is a Work in Progress
-
-</h3>
-
 A public GraphQL API for DC Heroes and Characters.
 
-Inspired by [SWAPI](https://github.com/graphql/swapi-graphql), the Star Wars GraphQL public API. Aimed to be used in teaching/educational settings.
+Inspired by [SWAPI](https://github.com/graphql/swapi-graphql), the Star Wars GraphQL API. Aimed to be used in teaching/educational settings.
+
+Uses a json file as a datasource, which was manually consolidated from info found in the [official DC web site](https://www.dccomics.com/characters)
+
+You can query a single `character` by name.
+
+```graphql
+{
+  character(name: "Superman") {
+    name
+    alterEgo
+    occupation
+    powers
+  }
+}
+```
+
+With the following json as a result:
+
+```json
+
+  "data": {
+    "character": {
+      "name": "Superman",
+      "alterEgo": "Clark Kent, Kal-El",
+      "occupation": "Reporter",
+      "powers": "super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor"
+    }
+  }
+}
+```
+
+You can also query a collection of `characters`, `villains`, `heroes` and `teams`. Each of those queries has an optional filter parameter that includes a `keyword` option.
+
+Example:
+
+```graphql
+{
+  characters(filter: { keyword: "reporter" }) {
+    name
+  }
+}
+```
+
+Will produce as a result the following json:
+
+```json
+{
+  "data": {
+    "characters": [
+      {
+        "name": "Jimmy Olsen"
+      },
+      {
+        "name": "Lois Lane"
+      },
+      {
+        "name": "Superman"
+      }
+    ]
+  }
+}
+```
 
 ## Install
 
@@ -30,11 +87,10 @@ npm install
 npm run start
 ```
 
-## Run tests
+## Todo
 
-```sh
-npm run test
-```
+- [ ] Movie/TV appareances for each character
+- [ ] Actors who played, voiced the characters
 
 ## Show your support
 
