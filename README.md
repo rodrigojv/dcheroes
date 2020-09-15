@@ -11,7 +11,7 @@
 
 A public GraphQL API for DC Heroes and Characters.
 
-Inspired by [SWAPI](https://github.com/graphql/swapi-graphql), the Star Wars GraphQL API. Aimed to be used in teaching/educational settings.
+Inspired by [SWAPI](https://github.com/graphql/swapi-graphql), the Star Wars GraphQL API. Aimed to be used as a tool to learn/teach GraphQL, or just to play around 🥰.
 
 Uses a json file as a datasource, which was manually consolidated from info found in the [official DC web site](https://www.dccomics.com/characters)
 
@@ -81,7 +81,7 @@ Will produce as a result the following json:
 
 ## Todo
 
-- [ ] Movie/TV appareances for each character
+- [ ] Movie/TV appearances for each character
 - [ ] Actors who played, voiced the characters
 - [ ] Custom domain name
 
