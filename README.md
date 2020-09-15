@@ -15,6 +15,10 @@ Inspired by [SWAPI](https://github.com/graphql/swapi-graphql), the Star Wars Gra
 
 Uses a json file as a datasource, which was manually consolidated from info found in the [official DC web site](https://www.dccomics.com/characters)
 
+## Docs
+
+Try out the queries and explore the schema on [the playground](https://dcheroes.herokuapp.com/).
+
 You can query a single `character` by name.
 
 ```graphql
@@ -43,7 +47,7 @@ With the following json as a result:
 }
 ```
 
-You can also query a collection of `characters`, `villains`, `heroes` and `teams`. Each of those queries has an optional filter parameter that includes a `keyword` option.
+Or you can also query a collection of `characters`, `villains`, `heroes` and `teams`. Each of those queries with an optional filter parameter that includes a `keyword` field.
 
 Example:
 
@@ -75,22 +79,11 @@ Will produce as a result the following json:
 }
 ```
 
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
-
 ## Todo
 
 - [ ] Movie/TV appareances for each character
 - [ ] Actors who played, voiced the characters
+- [ ] Custom domain name
 
 ## Show your support
 
